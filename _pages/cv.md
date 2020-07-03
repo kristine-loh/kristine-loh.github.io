@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](kristine-loh.github.io/Loh,CV2020-2.pdf). 
+View my full CV [here](_pages/Loh,CV2020-2.pdf). 
 
 Education
 ======
