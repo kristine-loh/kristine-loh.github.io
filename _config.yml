@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kristine Loh"
   avatar           : "profile.png"
-  bio              : "Kristine Loh is a Chemical Engineering PhD student at the University of Minnesota - Twin Cities. \ She received her BS in Chemical Engineering and her MS in Materials Science and Engineering from Drexel University."
+  bio              : "Kristine Loh is a Chemical Engineering PhD student at the University of Minnesota - Twin Cities."
   location         : "Minneapolis, MN"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "loh00014@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kristine-loh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kristineloh/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kristineloh"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
