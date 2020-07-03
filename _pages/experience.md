@@ -14,8 +14,11 @@ Advisor: Dr. Jason B. Baxter*
 * Analyzed SbSI microrods as novel pathways for electron transport using UV-Vis, SEM, EDS, and XRD
 * Synthesized CuSbS<sub>2</sub> thin films using chemical bath deposition
 </br>
-Thesis Presentation: [Optimization of Photodetection Analysis for MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films_V3.pptx)</br>
-STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)</br>
+Thesis Presentation: 
+[Optimization of Photodetection Analysis for MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films_V3.pptx)
+</br>
+STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
+</br>
 
 **Emmy Noether Research Group | Bochum, Germany**<br/>
 *Independent Research Project | April 2018 to June 2018<br/>
@@ -32,7 +35,7 @@ Advisor: Dr.-Ing. Markus Richter*
 * Developed 4 new inventory items to increase process efficiency, saving over $30,000 annually
 * Researched and developed customizable room-temperature vulcanizing silicone for mass production
 * Trained and supervised 6 operators on new techniques, products, and process improvements
-</br/>
+</br>
 Check out the product line I worked on here: [Land of Dough](https://www.landofdough.com/)
 </br>
 **Johnson & Johnson Consumer, Inc. | Fort Washington, PA**</br>
