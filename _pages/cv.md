@@ -9,51 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+View my full CV [here] [Loh,CV2020-2.pdf]
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**
+Doctor of Philosophy in Chemical Engineering 
+*College of Science and Engineering Fellow*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+**Drexel University | Philadelphia, PA | June 2020**
+*Graduate Honors with Distinction from Pennoni Honors College*
+*Summa Cum Laude*
+Thesis Title: Optimization of Photodetection Analysis of MXene Thin Films
+Senior Design Project: Sustainable Production of Ammonia
+* Master of Science in Materials Science and Engineering
+* Bachelor of Science in Chemical Engineering
+* Certificate in Technical Communication and Publishing
+
+**Rühr-Universität Bochum | Bochum, Germany | April 2018 to June 2018**
+Exchange Undergraduate Student in Mechanical Engineering
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Laboratory:** HPLC, SILAR, PEC Testing, UV-Vis, Sonicator, Micropipette, Glove Box, Fume Hood, Centrifuge
+**Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)
+**Software:** Minitab, SAP, Trackwise, Empower, Origin 8, AutoIt, AutoCAD, Autodesk Inventor, Kickstart, Fusion 360, Microsoft Office
+**Foreign language:** Conversational Mandarin Chinese, Limited Working Proficiency Spanish, Basic German
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
