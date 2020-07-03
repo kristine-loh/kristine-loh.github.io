@@ -15,7 +15,7 @@ Advisor: Dr. Jason B. Baxter*
 * Synthesized CuSbS<sub>2</sub> thin films using chemical bath deposition
 <br/>
 Thesis Presentation: 
-[Optimization of Photodetection Analysis for MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films_V3.pptx)
+[Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films_V3.pptx)
 <br/>
 STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
 <br/>
