@@ -15,12 +15,17 @@ Education
 ======
 
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**
+
 Doctor of Philosophy in Chemical Engineering 
+
 *College of Science and Engineering Fellow*
 
 **Drexel University | Philadelphia, PA | June 2020**
+
 *Graduate Honors with Distinction from Pennoni Honors College*
+
 *Summa Cum Laude*
+
 Thesis Title: Optimization of Photodetection Analysis of MXene Thin Films
 Senior Design Project: Sustainable Production of Ammonia
 * Master of Science in Materials Science and Engineering
@@ -28,6 +33,7 @@ Senior Design Project: Sustainable Production of Ammonia
 * Certificate in Technical Communication and Publishing
 
 **Rühr-Universität Bochum | Bochum, Germany | April 2018 to June 2018**
+
 Exchange Undergraduate Student in Mechanical Engineering
 
 Skills
