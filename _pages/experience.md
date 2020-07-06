@@ -3,6 +3,8 @@ title: "Research and Industry Experience"
 permalink: /experience/
 author_profile: true
 ---
+Check out some pictures [here](gallery.html).
+
 ## Research Experience
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab | Philadelphia, PA**<br/>
