@@ -39,6 +39,7 @@ Advisor: Dr.-Ing. Markus Richter*
 <br/>
 Check out the product line I worked on here: [Land of Dough](https://www.landofdough.com/)
 <br/>
+
 **Johnson & Johnson Consumer, Inc. | Fort Washington, PA**<br/>
 *R&D Analytical Chemistry Co-op | September 2017 to March 2018*<br/>
 *Advisor: Dr. Michael Breslav*
@@ -46,6 +47,7 @@ Check out the product line I worked on here: [Land of Dough](https://www.landofd
 * Designed and conducted heat and humidity stress experiment to determine long-term stress effects on API degradation products
 * Supported 5 analytical scientists through diluent, mobile phase, and sample preparation
 <br/>
+
 **Noramco, Inc. | Wilmington, DE**<br/>
 *Process Engineering Co-op | September 2016 to August 2017*
 * Created 5 startup and preconditioning procedures to improve process efficiency and prevent salt formation
