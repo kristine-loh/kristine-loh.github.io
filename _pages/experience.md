@@ -16,9 +16,9 @@ Advisor: Dr. Jason B. Baxter*
 <br/>
 <br/>
 Thesis Presentation: 
-[Optimization of Photodetection Analysis of MXene Thin Films](_pages/Optimization of Photodetection Analysis for MXene Thin Films.pdf)
+[Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films.pdf)
 <br/>
-STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](_pages/STAR Poster.pdf)
+STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
 <br/>
 
 **Emmy Noether Research Group | Bochum, Germany**<br/>
