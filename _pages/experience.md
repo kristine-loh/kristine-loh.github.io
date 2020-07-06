@@ -16,9 +16,9 @@ Advisor: Dr. Jason B. Baxter*
 <br/>
 <br/>
 Thesis Presentation: 
-[Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films_V3.pptx)
+[Optimization of Photodetection Analysis of MXene Thin Films](_pages/Optimization of Photodetection Analysis for MXene Thin Films.pdf)
 <br/>
-STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
+STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](_pages/STAR Poster.pdf)
 <br/>
 
 **Emmy Noether Research Group | Bochum, Germany**<br/>
@@ -36,16 +36,16 @@ Advisor: Dr.-Ing. Markus Richter*
 * Developed 4 new inventory items to increase process efficiency, saving over $30,000 annually
 * Researched and developed customizable room-temperature vulcanizing silicone for mass production
 * Trained and supervised 6 operators on new techniques, products, and process improvements
-<br/><br/>
+<br/>
 Check out the product line I worked on here: [Land of Dough](https://www.landofdough.com/)
-<br/><br/>
+<br/>
 **Johnson & Johnson Consumer, Inc. | Fort Washington, PA**<br/>
-*R&D Analytical Chemistry Co-op * September 2017 to March 2018*<br/>
+*R&D Analytical Chemistry Co-op | September 2017 to March 2018*<br/>
 *Advisor: Dr. Michael Breslav*
 * Developed and executed active pharmaceutical ingredient (API) extraction tests for HPLC analysis
 * Designed and conducted heat and humidity stress experiment to determine long-term stress effects on API degradation products
 * Supported 5 analytical scientists through diluent, mobile phase, and sample preparation
-<br/><br/>
+<br/>
 **Noramco, Inc. | Wilmington, DE**<br/>
 *Process Engineering Co-op | September 2016 to August 2017*
 * Created 5 startup and preconditioning procedures to improve process efficiency and prevent salt formation
