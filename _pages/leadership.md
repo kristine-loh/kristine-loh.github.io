@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Leadership Experience
-
 **Mentor to 10 Undergraduate Students** <br/>
 
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
