@@ -1,5 +1,5 @@
 ---
-title: "Experience"
+title: "Research and Manufacturing Experience"
 permalink: /experience/
 author_profile: true
 ---
