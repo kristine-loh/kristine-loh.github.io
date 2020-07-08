@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+Check out some pictures [here](gallery.html). <br/>
+
 **Mentor to 10 Undergraduate Students** <br/>
 
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
