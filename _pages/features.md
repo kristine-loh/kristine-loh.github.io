@@ -8,16 +8,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Awards
+## Awards and Features
+Outstanding Undergraduate Student [Award](https://drexel.edu/engineering/news-events/news/archive/2020/January/college-award-recipients-announced/), Drexel University | January 2020 <br/>
 Future Leaders in Chemical Engineering [Award](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/), NC State University | October 2020 <br/>
 Guiding Star Award, Society of Women Engineers | February 2019
 * [Drexel Award Announcement](https://drexel.edu/engineering/news-events/news/archive/2019/January/loh-swe/)
 * [CBE Announcement (page 23)](https://issuu.com/drexelengineering/docs/02278-19-drexel.coe.2019.cbe.annual.deans.report-v)
 * [SWE Award Announcement](https://alltogether.swe.org/2018/07/swe-announces-we-local-awards-for-fy19/)
 
+[20 Thoughts from the Class of 2020](https://drexel.edu/now/archive/2020/June/20-Thoughts-From-the-Drexel-University-Class-of-2020/)<br/>
+[Asian Pacific American Heritage Month 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)<br/>
 
 ## Events
-[Asian Pacific American Heritage Month 2020](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)<br/>
+[A Virtual Farewell to the Class of 2020](https://drexel.edu/engineering/news-events/news/archive/2020/June/a-virtual-farewell-to-the-class-of-2020/)<br/>
 [Lives and Lessons of the Underrepresented in STEM](https://drexel.edu/engineering/news-events/news/archive/2018/November/swe-forum-addresses-challenges-of-underrepresented/)<br/>
 [Introduction to Engineering at Independence Charter School](https://www.thetriangle.org/news/society-woman-engineers-promotes-stem-education/)<br/>
 [Engineering Night for Girls at North Penn High School](https://www.pressreader.com/usa/the-reporter-lansdale-pa/20170210/281483571128287)<br/>
