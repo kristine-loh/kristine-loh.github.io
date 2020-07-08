@@ -16,7 +16,6 @@ Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scie
 
 **Society of Women Engineers** <br/>
 *Societal*<br/>
-
 Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Present
  * Build online community for ACAG to welcome new members, spark discussion, and provide professional development resources
  * Wrote two Asian Pacific American Heritage Month feature articles
@@ -26,7 +25,6 @@ SWENext Newsletter Reporter | February 2020 to Present
  * Write "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 girls
  
 *Drexel University Section*<br/>
-
 Membership Director | December 2018 to December 2019
  * Hosted two General Body Meetings (GBMs) per term to inform our members of upcoming events
  * Started D&I moment initiative at each GBM to spark tough conversations about diversity and inclusion
@@ -61,7 +59,7 @@ STEM Webinar Moderator and Grant Writer
 **Drexel University College of Engineering**<br/>
 Recruitment and Outreach Assistant | June 2018 to June 2020
  * Coordinate Innovation Studio and engineering department visits for prospective high school students
- * Present personal experiences as a Drexel Engineering student and give prospective students advice at open houses, admitted student days, as well as other Drexel Engineering recruitment events
+ * Present personal experiences as a Drexel Engineering student and give prospective students advice at open houses, admitted student days, as well as other Drexel Engineering recruitment events <br/>
 Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2019 to January 2020
  * Assembled student testimonies for the tenure and promotion of three faculty members in the Chemical and Biological Engineering department
  * Created reports to summarize polled undergraduate and graduate evaluations and contributions to the department
