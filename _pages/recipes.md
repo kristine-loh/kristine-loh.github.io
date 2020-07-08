@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 These are my favorite recipes that I've tried and approve of. 
-+ indicates this recipe is good for potlucks
+"+" indicates this recipe is good for potlucks
 
 ### Air Fryer Recipes
 * +[Chicken Curry Puffs](https://cookpad.com/us/recipes/3297729-airfried-chicken-curry-puffs-using-store-bought-pratha-dough)
