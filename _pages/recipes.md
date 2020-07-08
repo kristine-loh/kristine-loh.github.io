@@ -1,10 +1,12 @@
 ---
-layout: archieve
+layout: archive
 title: "My Favorite Recipes"
 permalink: /recipes/
 author_profile: true
 
 ---
+{% include base_path %}
+
 These are my favorite recipes that I've tried and approve of. 
 "+" indicates this recipe is good for potlucks
 
