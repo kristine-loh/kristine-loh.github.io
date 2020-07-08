@@ -20,6 +20,6 @@ Know a K-12 student who needs free online tutoring? Find a mentor at https://www
 * Life, STEM and the Pursuit of Balance: Josa Hanzlik's [blog](https://josahanzlik.wordpress.com/2020/07/04/has-online-interactions-killed-our-empathy/). 
 * [SHE engineered](https://sheengineered.com/blog/) - gives great advice for women pursuing PhDs in engineering.
 * GradSWE [blog](http://gradswe.swe.org/gradswe-blog)
-* DrexelSWE Wellness [Blog] (https://swedrexelwellness.health.blog/)
+* DrexelSWE Wellness [Blog](https://swedrexelwellness.health.blog/)
 
 ### My favorite [recipes](recipes.md)
