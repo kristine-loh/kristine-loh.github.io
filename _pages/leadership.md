@@ -59,7 +59,8 @@ STEM Webinar Moderator and Grant Writer
 **Drexel University College of Engineering**<br/>
 Recruitment and Outreach Assistant | June 2018 to June 2020
  * Coordinate Innovation Studio and engineering department visits for prospective high school students
- * Present personal experiences as a Drexel Engineering student and give prospective students advice at open houses, admitted student days, as well as other Drexel Engineering recruitment events <br/>
+ * Present personal experiences as a Drexel Engineering student and give prospective students advice at open houses, admitted student days, as well as other Drexel Engineering recruitment events 
+ 
 Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2019 to January 2020
  * Assembled student testimonies for the tenure and promotion of three faculty members in the Chemical and Biological Engineering department
  * Created reports to summarize polled undergraduate and graduate evaluations and contributions to the department
