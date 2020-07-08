@@ -1,5 +1,5 @@
 ---
-title: "Research and Industry Experience"
+title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
@@ -29,7 +29,7 @@ Advisor: Dr.-Ing. Markus Richter*
 * Collaborated in two-member team to study ability of potassium phosphate to absorb carbon dioxide gas and hydrogen gas under various temperatures and pressures 
 * Used two-sinker magnetic suspension densimeter to collect experimental data and MATLAB to compile results
 
-## Industry Experience
+## Manufacturing Experience
 
 **Crazy Aaron’s Enterprises | Norristown, PA**<br/>
 *Materials & Process Engineer Co-op | April 2019 to September 2019*
