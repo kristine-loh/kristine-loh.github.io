@@ -17,7 +17,7 @@ Guiding Star Award, Society of Women Engineers | February 2019
 
 
 ## Events
-[Asian Pacific American Heritage Month 2020](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)
+[Asian Pacific American Heritage Month 2020](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)<br/>
 [Lives and Lessons of the Underrepresented in STEM](https://drexel.edu/engineering/news-events/news/archive/2018/November/swe-forum-addresses-challenges-of-underrepresented/)<br/>
 [Introduction to Engineering at Independence Charter School](https://www.thetriangle.org/news/society-woman-engineers-promotes-stem-education/)<br/>
 [Engineering Night for Girls at North Penn High School](https://www.pressreader.com/usa/the-reporter-lansdale-pa/20170210/281483571128287)<br/>
