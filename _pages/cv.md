@@ -11,9 +11,7 @@ redirect_from:
 
 View my full CV [here](Loh,CV2020-2.pdf). 
 
-Education
-======
-
+## Education
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 *College of Science and Engineering Fellow*<br/>
@@ -30,8 +28,7 @@ Senior Design Project: Sustainable Production of Ammonia<br/>
 **Rühr-Universität Bochum | Bochum, Germany | April 2018 to June 2018**<br/>
 Exchange Undergraduate Student in Mechanical Engineering<br/>
 
-Skills
-======
+## Skills
 **Laboratory:** HPLC, SILAR, PEC Testing, UV-Vis, Sonicator, Micropipette, Glove Box, Fume Hood, Centrifuge<br/>
 **Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)<br/>
 **Software:** Minitab, SAP, Trackwise, Empower, Origin 8, AutoIt, AutoCAD, Autodesk Inventor, Kickstart, Fusion 360, Microsoft Office<br/>
