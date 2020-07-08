@@ -22,4 +22,4 @@ Know a K-12 student who needs free online tutoring? Find a mentor at https://www
 * GradSWE [blog](http://gradswe.swe.org/gradswe-blog)
 * DrexelSWE Wellness [Blog] (https://swedrexelwellness.health.blog/)
 
-### My favorite recipes
+### My favorite [recipes](_pages/recipes.md)
