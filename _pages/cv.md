@@ -19,7 +19,7 @@ Doctor of Philosophy in Chemical Engineering <br/>
 *College of Science and Engineering Fellow*<br/>
 
 **Drexel University | Philadelphia, PA | June 2020**<br/>
-*Graduate Honors with Distinction from Pennoni Honors College*<br/>
+*Graduated Honors with Distinction from Pennoni Honors College*<br/>
 *Summa Cum Laude*<br/>
 Thesis Title: Optimization of Photodetection Analysis of MXene Thin Films<br/>
 Senior Design Project: Sustainable Production of Ammonia<br/>
