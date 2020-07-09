@@ -3,7 +3,7 @@ title: "Research and Manufacturing Experience"
 permalink: /experience/
 author_profile: true
 ---
-Check out some pictures [here](gallery.html).
+Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2).
 
 ## Research Experience
 
