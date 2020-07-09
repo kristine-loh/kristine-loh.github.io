@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Check out some pictures [here](gallery.html). <br/>
+Check out some pictures [here](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
 
 **Mentor to 10 Undergraduate Students** <br/>
 
