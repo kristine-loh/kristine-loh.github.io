@@ -13,7 +13,7 @@ Find a role model in STEM through FabFems. Check out my profile [here](https://w
 Check out my [guide](https://docs.google.com/document/d/1bSxuAMzOgqoiT1-ACNlNnXGWNVvVPnJFUXZXWXSSU5A/edit?usp=sharing) to applying to grad school! 
 
 ### CovEducation
-Know a K-12 student who needs free online tutoring? Find a mentor at https://www.coved.org/findamentor. I can help with English, Science, Math, AP Calculus AB, AP English Literature, AP English Language, AP Chemistry, College Prep - Essays, Writing, and Chemistry. 
+Know a K-12 student who needs free online tutoring? Find a mentor at [https://www.coved.org/findamentor](https://www.coved.org/findamentor). I can help with English, Science, Math, AP Calculus AB, AP English Literature, AP English Language, AP Chemistry, College Prep - Essays, Writing, and Chemistry. 
 
 ### Blogs/websites I follow
 * Alex Lang's [website](https://www.alexhunterlang.com/nsf-fellowship) - gives great fellowship application advice
@@ -22,4 +22,4 @@ Know a K-12 student who needs free online tutoring? Find a mentor at https://www
 * GradSWE [blog](http://gradswe.swe.org/gradswe-blog)
 * DrexelSWE Wellness [Blog](https://swedrexelwellness.health.blog/)
 
-### My favorite [recipes](recipes.md)
+### My Favorite [Recipes](recipes.md)
