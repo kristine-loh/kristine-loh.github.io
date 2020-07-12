@@ -39,7 +39,17 @@ Outreach Chair/Director | December 2015 to December 2017
  * Organized and coordinated a team of up to 20 volunteers for each outreach event with attendances of up to 2,500 people
  * Developed STEM demonstrations and workshops for students of all ages to spark an interest in engineering
  * Received $500 grant for outreach events from winning WOW! Innovation Challenge submission
+
+**American Institute of Chemical Engineers**<br/>
+Minority Affairs Committee Communications Team Member | May 2020 to Present
+ * Create graphics and flyers for event promotion on social media
+ * Compile and create quarterly newsletter
  
+**Pink Space Theory**<br/>
+STEM Webinar Moderator and Grant Writer | June 2020 to Present
+ * Moderate Fusion 360 workshop series to teach high school students about CAD
+ * Build and develop grant for Girl Power STEM workshop
+  
 **Society of Asian Scientists and Engineers**<br/>
 *Societal*<br/>
 PR Committee Researcher | June 2016 to June 2018
@@ -50,11 +60,6 @@ PR Committee Researcher | June 2016 to June 2018
 Events Coordinator | June 2018 to June 2019
  * Served as liaison between SASE Drexel Chapter and Campus Engagement Staff regarding event forms and event services
  * Coordinated logistics for attending national and regional SASE conferences, including transportation, registration, and housing
-
-**Pink Space Theory**<br/>
-STEM Webinar Moderator and Grant Writer 
- * Moderate Fusion 360 workshop series to teach high school students about CAD
- * Build and develop grant for Girl Power STEM workshop
  
 **Drexel University College of Engineering**<br/>
 Recruitment and Outreach Assistant | June 2018 to June 2020
