@@ -17,17 +17,19 @@ author_profile: true
 * [Asian Pacific American Heritage Month 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)<br/>
 
 ### Events
-* [A Virtual Farewell to the Class of 2020](https://drexel.edu/engineering/news-events/news/archive/2020/June/a-virtual-farewell-to-the-class-of-2020/)<br/>
-* [Lives and Lessons of the Underrepresented in STEM](https://drexel.edu/engineering/news-events/news/archive/2018/November/swe-forum-addresses-challenges-of-underrepresented/)<br/>
-* [Introduction to Engineering at Independence Charter School](https://www.thetriangle.org/news/society-woman-engineers-promotes-stem-education/)<br/>
-* [Engineering Night for Girls at North Penn High School](https://www.pressreader.com/usa/the-reporter-lansdale-pa/20170210/281483571128287)<br/>
+* [A Virtual Farewell to the Class of 2020](https://drexel.edu/engineering/news-events/news/archive/2020/June/a-virtual-farewell-to-the-class-of-2020/)
+* [Lives and Lessons of the Underrepresented in STEM](https://drexel.edu/engineering/news-events/news/archive/2018/November/swe-forum-addresses-challenges-of-underrepresented/)
+* [Drexel Admitted Students Day (Slide 20)](https://drexel.edu/~/media/Files/undergrad/moment/college-presentations/Engineering%20-%20ASD%20Presentation.ashx?la=en)
+* [Drexel ASCE Diversity and Inclusion Conference Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/)
+* [Introduction to Engineering at Independence Charter School](https://www.thetriangle.org/news/society-woman-engineers-promotes-stem-education/)
+* [Engineering Night for Girls at North Penn High School](https://www.pressreader.com/usa/the-reporter-lansdale-pa/20170210/281483571128287)
 
 ### Blog Posts
-* [How Self-Compassion Battles my Self-Doubt](https://swedrexelwellness.health.blog/2020/01/05/how-self-compassion-battles-my-self-doubt/)<br/>
+* [How Self-Compassion Battles my Self-Doubt](https://swedrexelwellness.health.blog/2020/01/05/how-self-compassion-battles-my-self-doubt/)
 
 ### Videos
 * [CBE Undergraduate Commencement Speech](https://youtu.be/lL7TVMViHL8?t=800)<br/>
-* [College of Engineering Undergraduate Commencement Speech (Third Video, Starts at 4:00)](https://www.coe.drexel.edu/commencement/)<br/>
-* [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)<br/>
-* [SWE WOW! Innovation Challenge Winning Video](https://www.youtube.com/watch?v=DK7Y79tMSaY)<br/>
-* [SWE Promotion Video](https://vimeo.com/188704663/7d181c9027?fbclid=IwAR2I2wN4UnLOom5PSHXNCaDmQnkkM7dh2C_wN2mjDszmlNMRgyVdbOPTknM)<br/>
+* [College of Engineering Undergraduate Commencement Speech (Third Video, Starts at 4:00)](https://www.coe.drexel.edu/commencement/)
+* [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)
+* [SWE WOW! Innovation Challenge Winning Video](https://www.youtube.com/watch?v=DK7Y79tMSaY)
+* [SWE Promotion Video](https://vimeo.com/188704663/7d181c9027?fbclid=IwAR2I2wN4UnLOom5PSHXNCaDmQnkkM7dh2C_wN2mjDszmlNMRgyVdbOPTknM)
