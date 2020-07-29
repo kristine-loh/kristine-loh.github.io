@@ -15,6 +15,7 @@ These are my favorite recipes that I've tried and approve of.
 * +[Chinese Roast Pork Belly](https://www.youtube.com/watch?v=wPZbCUa0Vck)
 * +[Bacon Wrapped Asparagus](https://www.foodlovinfamily.com/air-fryer-bacon-wrapped-asparagus-with-video/)
 * +[Apple Turnovers](https://www.5minutesformom.com/106889/airfryer-apple-pie-filo-pastries/) - hack: use applesauce as the filling instead!
+* +[Chiffon Cake](https://www.youtube.com/watch?v=hTIIFub4q0o)
 * [2 Ingredient Bagels](https://hip2save.com/recipes/2-ingredient-air-fryer-bagels/) - this recipe also works for pizza dough if you roll it thin enough
 * [Eggplant Parm](https://www.watchwhatueat.com/air-fryer-eggplant-parmesan/)
 * [Personal Pizza](https://www.liveeatlearn.com/air-fryer-pizza/)
