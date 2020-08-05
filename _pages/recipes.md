@@ -34,3 +34,4 @@ These are my favorite recipes that I've tried and approve of.
 ### Desserts
 * [Snickerdoodles](https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/)
 * [Eggless Tofu Brownies](https://www.egglesscooking.com/eggless-brownies-using-silken-tofu/)
+* [Easy Rice Cooker Sponge Cake](https://www.youtube.com/watch?v=KGIa91X8rnk&t=3s)
