@@ -9,7 +9,7 @@ author_profile: true
 ### Awards and Features
 * Outstanding Undergraduate Student [Award](https://drexel.edu/engineering/news-events/news/archive/2020/January/college-award-recipients-announced/), Drexel University,  January 2020 
 * Future Leaders in Chemical Engineering [Award](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/), NC State University, October 2020 
-* Guiding Star Award, Society of Women EngineersFeb, ruary 2019
+* Guiding Star Award, Society of Women Engineers, February 2019
   * [Drexel Award Announcement](https://drexel.edu/engineering/news-events/news/archive/2019/January/loh-swe/)
   * [CBE Announcement (page 23)](https://issuu.com/drexelengineering/docs/02278-19-drexel.coe.2019.cbe.annual.deans.report-v)
   * [SWE Award Announcement](https://alltogether.swe.org/2018/07/swe-announces-we-local-awards-for-fy19/)
