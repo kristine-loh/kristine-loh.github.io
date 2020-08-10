@@ -14,7 +14,8 @@ author_profile: true
   * [CBE Announcement (page 23)](https://issuu.com/drexelengineering/docs/02278-19-drexel.coe.2019.cbe.annual.deans.report-v)
   * [SWE Award Announcement](https://alltogether.swe.org/2018/07/swe-announces-we-local-awards-for-fy19/)
 * [20 Thoughts from the Class of 2020](https://drexel.edu/now/archive/2020/June/20-Thoughts-From-the-Drexel-University-Class-of-2020/)<br/>
-* [Asian Pacific American Heritage Month 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)<br/>
+* [Asian Pacific American Heritage Month 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)
+* [What is Chemical Engineering? - SWENext K-8 Newsletter](https://swe.org/wp-content/uploads/2020/01/SWENext-Newsletter-K-8-Oct-2019.pdf)<br/>
 
 ### Events
 * [A Virtual Farewell to the Class of 2020](https://drexel.edu/engineering/news-events/news/archive/2020/June/a-virtual-farewell-to-the-class-of-2020/)
