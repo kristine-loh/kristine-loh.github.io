@@ -21,5 +21,6 @@ Know a K-12 student who needs free online tutoring? Find a mentor at [https://ww
 * [SHE engineered](https://sheengineered.com/blog/) - gives great advice for women pursuing PhDs in engineering.
 * GradSWE [blog](http://gradswe.swe.org/gradswe-blog)
 * DrexelSWE Wellness [Blog](https://swedrexelwellness.health.blog/)
+* Scientific American: great [article](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/?redirect=1) about balance as an academic
 
 ### My Favorite [Recipes](recipes.md)
