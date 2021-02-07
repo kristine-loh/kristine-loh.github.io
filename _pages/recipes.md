@@ -31,6 +31,10 @@ These are my favorite recipes that I've tried and approve of.
 * +[Chicken Pot Pie](https://www.tasteofhome.com/recipes/favorite-chicken-potpie/)
 * [Asian Vegetarian Duck](https://www.youtube.com/watch?v=Kxo6I5C3aX4&t=369s)
 
+### Soups and Stews
+* Wegman's [Slow-Cooked Chicken Tortilla Soup](https://shop.wegmans.com/recipes/3335/?cid=oh:HBL:we:awa:ow:emai:ema:ot:or:v1:01242021:x:x&bid=1770481223)
+* [Heartwarming Green Lentil Stew](https://www.eatwell101.com/green-lentil-stew)
+
 ### Desserts
 * [Snickerdoodles](https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/)
 * [Eggless Tofu Brownies](https://www.egglesscooking.com/eggless-brownies-using-silken-tofu/)
