@@ -32,10 +32,11 @@ These are my favorite recipes that I've tried and approve of.
 * [Asian Vegetarian Duck](https://www.youtube.com/watch?v=Kxo6I5C3aX4&t=369s)
 
 ### Soups and Stews
-* Wegman's [Slow-Cooked Chicken Tortilla Soup](https://shop.wegmans.com/recipes/3335/?cid=oh:HBL:we:awa:ow:emai:ema:ot:or:v1:01242021:x:x&bid=1770481223)
+* [Wegman's Slow-Cooked Chicken Tortilla Soup](https://shop.wegmans.com/recipes/3335/?cid=oh:HBL:we:awa:ow:emai:ema:ot:or:v1:01242021:x:x&bid=1770481223)
 * [Heartwarming Green Lentil Stew](https://www.eatwell101.com/green-lentil-stew)
 
 ### Desserts
 * [Snickerdoodles](https://www.modernhoney.com/the-best-snickerdoodle-cookie-recipe/)
 * [Eggless Tofu Brownies](https://www.egglesscooking.com/eggless-brownies-using-silken-tofu/)
 * [Easy Rice Cooker Sponge Cake](https://www.youtube.com/watch?v=KGIa91X8rnk&t=3s)
+* [Vegan Chocolate Cupcakes with Aquafaba](https://mycrazygoodlife.com/vegan-aquafaba-chocolate-stout-cupcakes/) - These are great if you just used up a can of chickpeas and have leftover aquafaba! I'm allergic to alcohol so I didn't include the beer, but these tasted great nonetheless. 
