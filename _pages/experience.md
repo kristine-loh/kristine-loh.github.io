@@ -5,6 +5,8 @@ author_profile: true
 ---
 Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2).
 
+## [Teaching Experience](https://kristine-loh.github.io/teaching/)
+
 ## Research Experience
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab | Philadelphia, PA**<br/>
