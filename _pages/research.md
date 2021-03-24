@@ -1,10 +1,10 @@
 ---
-title: "Teaching Experience"
+title: "Academic Research Experience"
 permalink: /research/
 author_profile: true
 ---
 
-## Research Experience
+## Academic Research Experience
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab | Philadelphia, PA**<br/>
 *Undergraduate Research Assistant | April 2017 to June 2020<br/>
