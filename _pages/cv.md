@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](Loh,CV2020-2.pdf). 
+View my full CV [here](Loh,CV2020-2.pdf) (as of February 2021). 
 
 ## Education
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 [Ferry](https://ferry.cems.umn.edu/) and [Kortshagen](https://cse.umn.edu/me/uwe-kortshagen) Lab Groups <br/>
 *College of Science and Engineering Fellow*<br/>
+*National Science Foundation Graduate Research Fellow*<br/>
 
 **Drexel University | Philadelphia, PA | June 2020**<br/>
 *Graduated Honors with Distinction from Pennoni Honors College*<br/>
