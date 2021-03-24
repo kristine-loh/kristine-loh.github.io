@@ -31,7 +31,7 @@ Senior Design Project: Sustainable Production of Ammonia<br/>
 Exchange Undergraduate Student in Mechanical Engineering<br/>
 
 ## Skills
-**Laboratory:** HPLC, SILAR, PEC Testing, UV-Vis, Sonicator, Micropipette, Glove Box, Fume Hood, Centrifuge<br/>
+**Laboratory:** HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
 **Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)<br/>
 **Software:** Minitab, SAP, Trackwise, Empower, Origin 8, AutoIt, AutoCAD, Autodesk Inventor, Kickstart, Fusion 360, Microsoft Office<br/>
 **Foreign language:** Conversational Mandarin Chinese, Limited Working Proficiency Spanish, Basic German<br/>
