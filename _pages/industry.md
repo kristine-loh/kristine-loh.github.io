@@ -1,10 +1,10 @@
 ---
-title: "Manufacturing Experience"
-permalink: /manufacturing/
+title: "Industry Experience"
+permalink: /industry/
 author_profile: true
 ---
 
-## Manufacturing Experience
+## Industry Experience
 
 **Crazy Aaron’s Enterprises | Norristown, PA**<br/>
 *Materials & Process Engineer Co-op | April 2019 to September 2019*
