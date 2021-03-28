@@ -8,7 +8,7 @@ Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbu
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 
 **CHEN 3102 Reaction Kinetics | University of Minnesota**<br/>
-_*Teaching Assistant | January 2021 to May 2021<br/>_
+_Teaching Assistant | January 2021 to May 2021<br/>_
 
 ## [Academic Research Experience](https://kristine-loh.github.io/research/)
 
