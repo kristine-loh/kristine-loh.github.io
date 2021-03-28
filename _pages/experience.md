@@ -6,6 +6,7 @@ author_profile: true
 Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2).
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
+
 **CHEN 3102 Reaction Kinetics | University of Minnesota**<br/>
 *Teaching Assistant | January 2021 to May 2021<br/>
 
@@ -20,7 +21,7 @@ Advisor: Dr. Jason B. Baxter*
 *Independent Research Project | April 2018 to June 2018<br/>
 Advisor: Dr.-Ing. Markus Richter*
 
-## [Academic Research Experience](https://kristine-loh.github.io/industry/)
+## [Industry Experience](https://kristine-loh.github.io/industry/)
 
 **Crazy Aaron’s Enterprises | Norristown, PA**<br/>
 *Materials & Process Engineer Co-op | April 2019 to September 2019*
