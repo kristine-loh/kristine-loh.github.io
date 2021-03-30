@@ -76,7 +76,14 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 
 
 **Panels Served** <br/>
+
+*Pink Space Theory* <br/>
+ * Moderator for College Experience Panel Series: School/Life Balance (03/31/2021)
+ 
 *Society of Women Engineers* <br/>
+UMN SWE <br/>
+ * HeForSWE Webinar (03/29/2021)
+ 
 SWENext <br/>
  * SWENext Chat Together: College Essays and the Common Application (08/20/2020)
  * SWENext Chat Together: College Decisions (04/16/2020)
