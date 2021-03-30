@@ -3,6 +3,8 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
+{% include base_path %}
+
 Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2).
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
