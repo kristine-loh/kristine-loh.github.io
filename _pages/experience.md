@@ -11,7 +11,7 @@ Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbu
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 
 **CHEN 3102 Reaction Kinetics | University of Minnesota**<br/>
-*Teaching Assistant | January 2021 to May 2021*
+*Teaching Assistant | January 2021 to May 2021*<br/>
 
 ## [Academic Research Experience](https://kristine-loh.github.io/research/)
 
@@ -27,13 +27,13 @@ Advisor: Dr.-Ing. Markus Richter*
 
 ## [Industry Experience](https://kristine-loh.github.io/industry/)
 
-**Crazy Arron's Enterprises | Norristown, PA**<br/>
-*Materials & Process Engineer Co-op | April 2019 to September 2019* 
+**Crazy Aaron's Enterprises | Norristown, PA**<br/>
+*Materials & Process Engineer Co-op | April 2019 to September 2019* <br/>
 
 **Johnson & Johnson Consumer, Inc. | Fort Washington, PA**<br/>
 *R&D Analytical Chemistry Co-op | September 2017 to March 2018*<br/>
-*Advisor: Dr. Michael Breslav*
+*Advisor: Dr. Michael Breslav*<br/>
 
 **Noramco, Inc. | Wilmington, DE**<br/>
-*Process Engineering Co-op | September 2016 to August 2017*
+*Process Engineering Co-op | September 2016 to August 2017*<br/>
 
