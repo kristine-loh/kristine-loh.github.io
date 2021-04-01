@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 ### Awards and Features
-* National Science Foundation Graduate Research [Fellowship](https://www.cems.umn.edu/news/cems-students-and-alumni-receive-nsf-graduate-re-1), NSF, March 2021
+* National Science Foundation Graduate Research Fellowship, NSF, March 2021
+  * [UMN Award Announcement](https://www.cems.umn.edu/news/cems-students-and-alumni-receive-nsf-graduate-re-1)
+  * [Drexel Award Announcement](https://drexel.edu/pennoni/urep/News/2021/April/2021%20NSF%20GRFP%20Honorees/)
 * Outstanding Undergraduate Student [Award](https://drexel.edu/engineering/news-events/news/archive/2020/January/college-award-recipients-announced/), Drexel University,  January 2020 
 * Future Leaders in Chemical Engineering [Award](https://www.cbe.ncsu.edu/research/future-leaders-in-chemical-engineering/meet-the-awardees/), NC State University, October 2020 
 * Guiding Star Award, Society of Women Engineers, February 2019
