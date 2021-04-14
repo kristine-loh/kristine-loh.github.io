@@ -77,6 +77,9 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 
 **Panels Served** <br/>
 
+*UMN CEMS* <br/>
+ * Confronting Anti-Asian Racism (04/13/2021)
+
 *Pink Space Theory* <br/>
  * Moderator for College Experience Panel Series: School/Life Balance (03/31/2021)
  
@@ -93,6 +96,7 @@ SWENext <br/>
  * CovEd Speaker Series: Personal Experiences Applying to College (09/27/2020)
  
 *Drexel College of Engineering* <br/>
+ * Young Alumni Panel (04/17/2021)
  * ASCE Diversity Conference [Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/)
  * Open Discussion on Diversity and Race (08/13/2020)
  * SASE Northeast Regional Conference High School Program (02/18/2017)
