@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* [Celebrating Asian American and Pacific Islander Heritage Month 2021](https://alltogether.swe.org/2021/04/asian-american-and-pacific-islanders/)
 * National Science Foundation Graduate Research Fellowship, NSF, March 2021
   * [UMN Award Announcement](https://www.cems.umn.edu/news/cems-students-and-alumni-receive-nsf-graduate-re-1)
   * [Drexel Award Announcement](https://drexel.edu/pennoni/urep/News/2021/April/2021%20NSF%20GRFP%20Honorees/)
@@ -17,7 +18,7 @@ author_profile: true
   * [CBE Announcement (page 23)](https://issuu.com/drexelengineering/docs/02278-19-drexel.coe.2019.cbe.annual.deans.report-v)
   * [SWE Award Announcement](https://alltogether.swe.org/2018/07/swe-announces-we-local-awards-for-fy19/)
 * [20 Thoughts from the Class of 2020](https://drexel.edu/now/archive/2020/June/20-Thoughts-From-the-Drexel-University-Class-of-2020/)<br/>
-* [Asian Pacific American Heritage Month 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)
+* [AAPIHM 2020 - SWE Leaders](https://alltogether.swe.org/2020/05/asian-pacific-american-heritage-month-highlighting-asian-american-engineers-pt-2/)
 * [What is Chemical Engineering? - SWENext K-8 Newsletter](https://swe.org/wp-content/uploads/2020/01/SWENext-Newsletter-K-8-Oct-2019.pdf)<br/>
 
 ### Events
