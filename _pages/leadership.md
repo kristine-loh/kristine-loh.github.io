@@ -81,7 +81,7 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
  * Confronting Anti-Asian Racism (04/13/2021)
 
 *Pink Space Theory* <br/>
- * Moderator for College Experience Panel Series: School/Life Balance (03/31/2021)
+ * Moderator for College Experience Panel Series: [School/Life Balance (03/31/2021)](https://www.youtube.com/watch?v=y3CuuwGr5tg)
  
 *Society of Women Engineers* <br/>
 UMN SWE <br/>
