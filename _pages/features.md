@@ -34,7 +34,6 @@ author_profile: true
 
 ### Videos
 * [CBE Undergraduate Commencement Speech](https://youtu.be/lL7TVMViHL8?t=800)<br/>
-* [College of Engineering Undergraduate Commencement Speech (Third Video, Starts at 4:00)](https://www.coe.drexel.edu/commencement/)
 * [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)
 * [SWE WOW! Innovation Challenge Winning Video](https://www.youtube.com/watch?v=DK7Y79tMSaY)
 * [SWE Promotion Video](https://vimeo.com/188704663/7d181c9027?fbclid=IwAR2I2wN4UnLOom5PSHXNCaDmQnkkM7dh2C_wN2mjDszmlNMRgyVdbOPTknM)
