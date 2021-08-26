@@ -5,6 +5,13 @@ author_profile: true
 ---
 
 ## Academic Research Experience
+**Ferry and Kortshagen Groups | Minneapolis, MN**<br/>
+*Graduate Research Fellow | January 2021 to Present <br/>
+Advisors: Drs. Vivian Ferry and Uwe Kortshagen* 
+* Utilize non-thermal plasma to synthesize silicon nanocrystals (SiNCs) for agrivoltaic applications
+* Characterize SiNCs using quantum yield measurements, lifetime analysis, FTIR, and XRD
+* Deposit homogenous silicon nitride thin films using rotating stage motor
+* Simulate optical performance of luminescent solar concentrators using Monte Carlo ray-tracing MATLAB code
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab | Philadelphia, PA**<br/>
 *Undergraduate Research Assistant | April 2017 to June 2020<br/>
