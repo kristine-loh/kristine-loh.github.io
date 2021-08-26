@@ -21,11 +21,13 @@ Advisor: Dr. Jason B. Baxter*
 * Led research efforts on using Ti-doped hematite thin films synthesized using Successive Ionic Layer Adsorption and Reaction (SILAR) as an enhanced photoelectrochemical water splitter
 * Analyzed SbSI microrods as novel pathways for electron transport using UV-Vis, SEM, EDS, and XRD
 * Synthesized CuSbS<sub>2</sub> thin films using chemical bath deposition
+
 Thesis Presentation: 
 [Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films.pdf)
 <br/>
 STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
-<br/><br/>
+<br/>
+
 **Emmy Noether Research Group | Bochum, Germany**<br/>
 *Independent Research Project | April 2018 to June 2018<br/>
 Advisor: Dr.-Ing. Markus Richter*
