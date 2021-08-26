@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](Loh,CV2020-2.pdf) (as of February 2021). 
+View my full CV [here](Loh,CV2021.pdf) (as of August 2021). 
 
 ## Education
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 [Ferry](https://ferry.cems.umn.edu/) and [Kortshagen](https://cse.umn.edu/me/uwe-kortshagen) Lab Groups <br/>
-*College of Science and Engineering Fellow*<br/>
 *National Science Foundation Graduate Research Fellow*<br/>
+*College of Science and Engineering Fellow*<br/>
 
 **Drexel University | Philadelphia, PA | June 2020**<br/>
 *Graduated Honors with Distinction from Pennoni Honors College*<br/>
@@ -31,8 +31,8 @@ Senior Design Project: Sustainable Production of Ammonia<br/>
 Exchange Undergraduate Student in Mechanical Engineering<br/>
 
 ## Skills
-**Laboratory:** HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
+**Laboratory:** Non-thermal plasma synthesis of nanocrystals, FTIR, XRD, PLQY, TRPL, HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
 **Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)<br/>
-**Software:** Minitab, SAP, Trackwise, Empower, Origin 8, AutoIt, AutoCAD, Autodesk Inventor, Kickstart, Fusion 360, Microsoft Office<br/>
+**Software:** Origin, AutoIt, AutoCAD, Blender Autodesk Inventor, Kickstart, SAP, Trackwise, Empower, Fusion 360, Microsoft Office<br/>
 **Foreign language:** Conversational Mandarin Chinese, Limited Working Proficiency Spanish, Basic German<br/>
   
