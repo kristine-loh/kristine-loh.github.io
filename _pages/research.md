@@ -22,11 +22,8 @@ Advisor: Dr. Jason B. Baxter*
 * Analyzed SbSI microrods as novel pathways for electron transport using UV-Vis, SEM, EDS, and XRD
 * Synthesized CuSbS<sub>2</sub> thin films using chemical bath deposition
 
-Thesis Presentation: 
-[Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films.pdf)
-<br/>
-STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf)
-<br/>
+Thesis Presentation:[Optimization of Photodetection Analysis of MXene Thin Films](Optimization of Photodetection Analysis for MXene Thin Films.pdf) <br/>
+STAR Scholar Poster: [SbSI Microrods as a Ferroelectric Solar Cell Absorber Material](STAR Poster.pdf) <br/>
 
 **Emmy Noether Research Group | Bochum, Germany**<br/>
 *Independent Research Project | April 2018 to June 2018<br/>
