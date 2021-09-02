@@ -81,6 +81,7 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 **Panels Served** <br/>
 
 *UMN CEMS* <br/>
+ * Graduate Fellowship Panel for First-Year Students (8/30/2021)
  * Confronting Anti-Asian Racism (04/13/2021)
 
 *Pink Space Theory* <br/>
