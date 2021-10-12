@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* SWE Outstanding Collegiate Member Award ([UMN Announcement](https://cse.umn.edu/cems/news/cems-graduate-student-kristine-loh-wins-swe-outstanding-collegiate-member-award) and [SWE Announcement](https://alltogether.swe.org/2021/09/swe-announces-the-recipients-of-its-annual-awards-program/))
 * [Celebrating Asian American and Pacific Islander Heritage Month 2021](https://alltogether.swe.org/2021/04/asian-american-and-pacific-islanders/)
 * National Science Foundation Graduate Research Fellowship, NSF, March 2021: [UMN Award Announcement](https://www.cems.umn.edu/news/cems-students-and-alumni-receive-nsf-graduate-re-1) and [Drexel Award Announcement](https://drexel.edu/pennoni/urep/News/2021/April/2021%20NSF%20GRFP%20Honorees/)
 * Outstanding Undergraduate Student [Award](https://drexel.edu/engineering/news-events/news/archive/2020/January/college-award-recipients-announced/), Drexel University,  January 2020 
