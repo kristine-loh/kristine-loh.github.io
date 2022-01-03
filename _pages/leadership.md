@@ -20,7 +20,7 @@ Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and En
 
 **Society of Women Engineers** <br/>
 *Unviersity of Minnesota Section*<br/>
-GradSWE Committee Member | March 2021 to Present
+GradSWE Committee Chair | March 2021 to Present
  * Lead the revitalization of the UMN GradSWE committee by hosting events catered to graduate students
 
 *Societal*<br/>
@@ -30,7 +30,8 @@ Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Presen
 
 SWENext Newsletter Reporter | February 2020 to Present
  * Interview and feature a unique engineer for monthly high school SWENext Newsletter
- * Write "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 girls
+ * Write "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 students
+ * Facilitator for two SWENext Connect workshops
  
 *Drexel University Section*<br/>
 Membership Director | December 2018 to December 2019
@@ -48,7 +49,7 @@ Outreach Chair/Director | December 2015 to December 2017
  * Received $500 grant for outreach events from winning WOW! Innovation Challenge submission
 
 **Pink Space Theory**<br/>
-STEM Webinar Moderator and Grant Writer | June 2020 to Present
+STEM Webinar Moderator, Panel Organizer, and Grant Writer | June 2020 to Present
  * Co-wrote successful [Environmental Education and Stewardship Grant](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/pdfs/global/company/environmental-grants-recipients.pdf?la=en&rev=03f7e7ef8a6341168aedd4e03b45608a&hash=6956FE4B31FF625C187566CF520FBA7C) for "Intro to Green Living" Workshop
  * Organize and develop three-panel series for women interested in STEM majors 
   
@@ -81,7 +82,8 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 **Panels Served** <br/>
 
 *UMN CEMS* <br/>
- * Graduate Fellowship Panel for First-Year Students (8/30/2021)
+ * Advisor Selection Panel for First-Year Students (09/08/2021)
+ * Graduate Fellowship Panel for First-Year Students (08/30/2021)
  * Confronting Anti-Asian Racism (04/13/2021)
 
 *Pink Space Theory* <br/>
@@ -102,7 +104,7 @@ SWENext <br/>
 *Drexel College of Engineering* <br/>
  * Young Alumni Panel (04/17/2021)
  * Open Discussion on Diversity and Race (08/13/2020)
- * ASCE Diversity Conference [Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/) (5/11/2019)
+ * ASCE Diversity Conference [Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/) (05/11/2019)
  * Multiple Departmental and College-Wide Admitted Student Day and Open House Recruitment Panels (~20 panels, 2016 - 2020)
  * STAR Scholars/SuperNova Fellow Info Session (01/09/2019)
  * Welcome Week Student Panel (09/20/2018)
