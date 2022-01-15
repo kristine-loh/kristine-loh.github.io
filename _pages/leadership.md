@@ -90,6 +90,10 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
  * Moderator for College Experience Panel Series: [School/Life Balance](https://www.youtube.com/watch?v=y3CuuwGr5tg) (03/31/2021) 
  
 *Society of Women Engineers* <br/>
+
+SWE Early Career Professionals Affinity Group <br/>
+ * "It's OK to Fail" Workshop (01/13/2022)
+
 UMN SWE <br/>
  * HeForSWE Webinar (03/29/2021)
  
