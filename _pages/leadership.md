@@ -24,6 +24,11 @@ GradSWE Committee Chair | March 2021 to Present
  * Lead the revitalization of the UMN GradSWE committee by hosting events catered to graduate students
 
 *Societal*<br/>
+
+SWE Awards Judge | 2021
+ * 2022 WE Local Awards
+ * WE21 SWENext Awards
+
 Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Present
  * Build online community for ACAG to welcome new members, spark discussion, and provide professional development resources
  * Wrote two Asian Pacific American Heritage Month feature articles
