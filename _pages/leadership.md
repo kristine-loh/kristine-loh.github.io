@@ -15,7 +15,7 @@ Check out some pictures [here](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfj
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
 
 *2020 - Present* <br/>
-Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
+Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
 
 
 **Society of Women Engineers** <br/>
@@ -87,6 +87,7 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 **Panels Served** <br/>
 
 *UMN CEMS* <br/>
+ * Moderator for Prospective Student Weekend Grad Life Panel (03/19/2022)
  * Advisor Selection Panel for First-Year Students (09/08/2021)
  * Graduate Fellowship Panel for First-Year Students (08/30/2021)
  * Confronting Anti-Asian Racism (04/13/2021)
