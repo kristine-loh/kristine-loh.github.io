@@ -20,12 +20,14 @@ Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and En
 
 **Society of Women Engineers** <br/>
 *Unviersity of Minnesota Section*<br/>
-GradSWE Committee Chair | March 2021 to Present
- * Lead the revitalization of the UMN GradSWE committee by hosting events catered to graduate students
+GradSWE Committee Chair | March 2021 to July 2022
+ * Led the revitalization of the UMN GradSWE committee by hosting monthly events catered to graduate students
+ * Increased membership by 30% in one year
 
 *Societal*<br/>
 
 SWE Awards Judge | 2021
+ * 2022 Individual Awards
  * 2022 WE Local Awards
  * WE21 SWENext Awards
 
@@ -56,7 +58,8 @@ Outreach Chair/Director | December 2015 to December 2017
 **Pink Space Theory**<br/>
 STEM Webinar Moderator, Panel Organizer, and Grant Writer | June 2020 to Present
  * Co-wrote successful [Environmental Education and Stewardship Grant](https://cdn-dominionenergy-prd-001.azureedge.net/-/media/pdfs/global/company/environmental-grants-recipients.pdf?la=en&rev=03f7e7ef8a6341168aedd4e03b45608a&hash=6956FE4B31FF625C187566CF520FBA7C) for "Intro to Green Living" Workshop
- * Organize and develop three-panel series for women interested in STEM majors 
+ * Fundraised $350 and organized a virtual panel about dorm living for high school students at Title I schools (2022)
+ * Organized and hosted three virtual panels to discuss multiple aspects of college life for women in STEM (2021)
   
 **American Institute of Chemical Engineers**<br/>
 Minority Affairs Committee Communications Team Member | May 2020 to July 2021
