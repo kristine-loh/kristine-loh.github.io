@@ -11,7 +11,8 @@ Advisors: Drs. Vivian Ferry and Uwe Kortshagen*
 * Utilize non-thermal plasma to synthesize silicon nanocrystals (SiNCs) for agrivoltaic applications
 * Characterize SiNCs using quantum yield measurements, lifetime analysis, FTIR, and XRD
 * Deposit homogenous silicon nitride thin films using rotating stage motor
-* Mentored ME3 REU student and taught basics of quantum mechanics as well as quantum yield measurement procedure
+* Mentoring a 2022 MRSEC REU student and teaching wet chemistry lab skills as well as materials characterization skills (FTIR, UV-Vis)
+* Mentored a 2021 ME3 REU student and taught basics of quantum mechanics as well as quantum yield measurement procedure
 * Simulate optical performance of luminescent solar concentrators using Monte Carlo ray-tracing MATLAB code
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab | Philadelphia, PA**<br/>
