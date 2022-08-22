@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](Loh,CV2021.pdf) (as of August 2021). 
+View my full CV [here](Loh,CV2022.pdf) (as of August 2022). 
 
 ## Education
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
@@ -31,7 +31,7 @@ Senior Design Project: Sustainable Production of Ammonia<br/>
 Exchange Undergraduate Student in Mechanical Engineering<br/>
 
 ## Skills
-**Laboratory:** Non-thermal plasma synthesis of nanocrystals, FTIR, XRD, PLQY, TRPL, HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
+**Laboratory:** Nonthermal plasma synthesis of nanocrystals, FTIR, XRD, EPR, PLQY, TRPL, HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
 **Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)<br/>
 **Software:** Origin, AutoIt, AutoCAD, Blender Autodesk Inventor, Kickstart, SAP, Trackwise, Empower, Fusion 360, Microsoft Office<br/>
 **Foreign language:** Conversational Mandarin Chinese, Limited Working Proficiency Spanish, Basic German<br/>
