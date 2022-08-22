@@ -10,12 +10,12 @@ author_profile: true
 
 Check out some pictures [here](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
 
-**Professional Mentor to 13 Undergraduate Students, 3 Middle/High School Students, and 1 Post-Bac** <br/>
+**Professional Mentor to 14 Undergraduate Students, 2 Undergraduate Research Students, 4 Middle/High School Students, and 1 Post-Bac** <br/>
 *2015 - 2020* <br/>
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
 
 *2020 - Present* <br/>
-Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
+Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Research Mentor to one mechanical engineering undergraduate student through the UMN ME3 REU Program and one mechanical engineering undergraduate student through the UMN MRSEC REU Program. Career mentor to one high school senior through the virtual Professional Advancement in Career Education (PACE) Program. Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
 
 
 **Society of Women Engineers** <br/>
@@ -35,9 +35,9 @@ Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Presen
  * Build online community for ACAG to welcome new members, spark discussion, and provide professional development resources
  * Wrote two Asian Pacific American Heritage Month feature articles
 
-SWENext Newsletter Reporter | February 2020 to Present
- * Interview and feature a unique engineer for monthly high school SWENext Newsletter
- * Write "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 students
+SWENext Newsletter Reporter | February 2020 to July 2022
+ * Interviewed and featured a unique engineer for monthly high school SWENext Newsletter
+ * Wrote "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 students
  * Facilitator for two SWENext Connect workshops
  
 *Drexel University Section*<br/>
@@ -89,11 +89,12 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 
 **Panels Served** <br/>
 
-*UMN CEMS* <br/>
- * Moderator for Prospective Student Weekend Grad Life Panel (03/19/2022)
- * Advisor Selection Panel for First-Year Students (09/08/2021)
- * Graduate Fellowship Panel for First-Year Students (08/30/2021)
- * Confronting Anti-Asian Racism (04/13/2021)
+*UMN* <br/>
+ * ACM-W Women in Tech Symposium Grad Student Panel (04/22/22)
+ * Moderator for CEMS Prospective Student Weekend Grad Life Panel (03/19/2022)
+ * CEMS Advisor Selection Panel for First-Year Students (09/08/2021)
+ * CEMS Graduate Fellowship Panel for First-Year Students (08/30/2021)
+ * CEMS Confronting Anti-Asian Racism (04/13/2021)
 
 *Pink Space Theory* <br/>
  * Moderator for College Experience Panel Series: [School/Life Balance](https://www.youtube.com/watch?v=y3CuuwGr5tg) (03/31/2021) 
@@ -114,9 +115,12 @@ SWENext <br/>
 *CovEducation* <br/>
  * CovEd Speaker Series: Personal Experiences Applying to College (09/27/2020)
  
-*Drexel College of Engineering* <br/>
- * Young Alumni Panel (04/17/2021)
- * Open Discussion on Diversity and Race (08/13/2020)
+*Drexel University* <br/>
+ * 20 Years of STAR Lecture Series (08/10/22)
+ * Velay Fellows Mentorship Meeting - Grad Students (07/21/22)
+ * Velay Fellows Mentorship Meeting - Grad Students (07/30/21)
+ * College of Engineering Young Alumni Panel (04/17/2021)
+ * College of Engineering Open Discussion on Diversity and Race (08/13/2020)
  * ASCE Diversity Conference [Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/) (05/11/2019)
  * Multiple Departmental and College-Wide Admitted Student Day and Open House Recruitment Panels (~20 panels, 2016 - 2020)
  * STAR Scholars/SuperNova Fellow Info Session (01/09/2019)
