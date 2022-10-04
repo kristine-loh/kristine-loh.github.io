@@ -30,6 +30,7 @@ These are my favorite recipes that I've tried and approve of.
 ### Entrées
 * +[Chicken Pot Pie](https://www.tasteofhome.com/recipes/favorite-chicken-potpie/)
 * [Asian Vegetarian Duck](https://www.youtube.com/watch?v=Kxo6I5C3aX4&t=369s)
+* [Carrot Top Pesto](https://yupitsvegan.com/carrot-top-pesto/)
 
 ### Soups and Stews
 * [Wegman's Slow-Cooked Chicken Tortilla Soup](https://shop.wegmans.com/recipes/3335/?cid=oh:HBL:we:awa:ow:emai:ema:ot:or:v1:01242021:x:x&bid=1770481223)
