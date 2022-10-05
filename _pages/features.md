@@ -29,6 +29,7 @@ author_profile: true
 * [How Self-Compassion Battles my Self-Doubt](https://swedrexelwellness.health.blog/2020/01/05/how-self-compassion-battles-my-self-doubt/)
 
 ### Videos
+* [CEMS Outreach Story Video](https://youtu.be/Xb5C0wtA7As)
 * [CBE Undergraduate Commencement Speech](https://youtu.be/lL7TVMViHL8?t=800)<br/>
 * [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)
 * [SWE WOW! Innovation Challenge Winning Video](https://www.youtube.com/watch?v=DK7Y79tMSaY)
