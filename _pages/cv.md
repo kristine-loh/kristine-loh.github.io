@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-View my full CV [here](Loh,CV2022.pdf) (as of August 2022). 
+View my full CV [here](Loh,CV2022.pdf) (as of November 2022). 
 
 ## Education
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
