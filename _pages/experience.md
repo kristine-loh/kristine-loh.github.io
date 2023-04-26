@@ -10,6 +10,10 @@ Check out some pictures [here](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbu
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 
+**Preparing Future Faculty Program - University of Minnesota** <br/>
+Co-Taught Physics for Fine Arts at Augsburg University: January 2023 to May 2023<br/>
+**CHEN 3401W Junior Chemical Engineering Lab - University of Minnesota** <br/>
+Teaching Assistant: January 2023 to May 2023<br/>
 **CHEN 3102 Reaction Kinetics - University of Minnesota**<br/>
 Teaching Assistant: January 2021 to May 2021<br/>
 
