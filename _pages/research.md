@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 ## Publications
-1. "Photoluminescent Si/SiO_2 Core/Shell Quantum Dots Prepared by High-Pressure Water Vapor Annealing for Solar Concentrators, Light-Emitting Devices, and Bioimaging," **Kristine Q. Loh**, Himashi P. Andaraarachchi, Vivian E. Ferry, Uwe R. Kortshagen, _ACS Applied Nano Materials_, **6**, 7, 6444-6553 (2023). doi: [10.1021/acsanm.3c01130](doi.org/10.1021/acsanm.3c01130)
+1. "Photoluminescent Si/SiO_2 Core/Shell Quantum Dots Prepared by High-Pressure Water Vapor Annealing for Solar Concentrators, Light-Emitting Devices, and Bioimaging," **Kristine Q. Loh**, Himashi P. Andaraarachchi, Vivian E. Ferry, Uwe R. Kortshagen, _ACS Applied Nano Materials_, **6**, 7, 6444-6553 (2023). doi: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130)
 
 ## Academic Research Experience
 **Ferry and Kortshagen Groups | Minneapolis, MN**<br/>
