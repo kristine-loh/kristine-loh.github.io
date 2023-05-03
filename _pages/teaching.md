@@ -11,6 +11,8 @@ author_profile: true
 *	First lesson based off of Chapters 12 and 13 in _Physics in the Arts_: [Physics of Sound and Music](Physics of Sound and Music.pdf)
 *	Second lesson and lab originally designed: [Forces of Stage Design Lecture](Forces of Stage Design.pdf) and [Lab](Stage Design Force Body Diagrams and the Normal Force.pdf) 
 * Prepared syllabus, teaching philosophy, and diversity statement documents in a [teaching portfolio](Loh_TeachingPortfolio.pdf) while learning about inclusive pedagogy, universal course design, and classroom assessment techniques through GRAD 8101 class (Teaching in Higher Education)
+* [Physics of Sound and Music](Physics of Sound and Music.pdf)
+* [Forces of Stage Design Lecture](Forces of Stage Design.pdf) and [Lab](Stage Design Force Body Diagrams and the Normal Force.pdf) 
 
 
 **CHEN 3401W Junior Chemical Engineering Lab | University of Minnesota** <br/>
