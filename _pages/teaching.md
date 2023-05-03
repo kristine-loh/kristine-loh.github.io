@@ -10,7 +10,7 @@ author_profile: true
 *	Co-taught Physics for Fine Arts undergraduate class (designed and presented two lectures and assist with weekly labs) at Augsburg University under the guidance of Professor Moumita Dasgupta
 - First lesson based off of Chapters 12 and 13 in _Physics in the Arts_: [Physics of Sound and Music](Physics of Sound and Music.pdf)
 - Second lesson and lab originally designed: [Forces of Stage Design Lecture](Forces of Stage Design.pdf) and [Lab](Stage Design Force Body Diagrams and the Normal Force.pdf) 
-* Prepared syllabus, teaching philosophy, and diversity statement documents in a (teaching portfolio)[Loh_TeachingPortfolio.pdf] while learning about inclusive pedagogy, universal course design, and classroom assessment techniques through GRAD 8101 class (Teaching in Higher Education)
+* Prepared syllabus, teaching philosophy, and diversity statement documents in a [teaching portfolio](Loh_TeachingPortfolio.pdf) while learning about inclusive pedagogy, universal course design, and classroom assessment techniques through GRAD 8101 class (Teaching in Higher Education)
 
 
 **CHEN 3401W Junior Chemical Engineering Lab | University of Minnesota** <br/>
