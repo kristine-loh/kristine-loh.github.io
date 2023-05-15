@@ -8,7 +8,7 @@ author_profile: true
 
 **Preparing Future Faculty Program | University of Minnesota and Augsburg University** <br/>
 *	Co-taught Physics for Fine Arts undergraduate class (designed and presented two lectures and assist with weekly labs) at Augsburg University under the guidance of Professor Moumita Dasgupta
-    * First lesson based off of Chapters 12 and 13 in _Physics in the Arts_, [Physics of Sound and Music](https://github.com/kristine-loh/kristine-loh.github.io/blob/267cb395627774b4a56f80f03a06c2db2cc89840/_pages/Physics%20of%20Sound%20and%20Music.pdf)
+    * First lesson based off of Chapters 12 and 13 in _Physics in the Arts_, [Physics of Sound and Music](Physics of Sound and Music.pdf)
     * Second lesson and lab originally designed, [Forces of Stage Design Lecture](https://github.com/kristine-loh/kristine-loh.github.io/blob/267cb395627774b4a56f80f03a06c2db2cc89840/_pages/Forces%20of%20Stage%20Design.pdf) and [Lab](https://github.com/kristine-loh/kristine-loh.github.io/blob/267cb395627774b4a56f80f03a06c2db2cc89840/_pages/Stage%20Design%20Force%20Body%20Diagrams%20and%20the%20Normal%20Force.pdf) 
 * Prepared syllabus, teaching philosophy, and diversity statement documents in a [teaching portfolio](Loh_TeachingPortfolio.pdf) while learning about inclusive pedagogy, universal course design, and classroom assessment techniques through GRAD 8101 class (Teaching in Higher Education)
 
