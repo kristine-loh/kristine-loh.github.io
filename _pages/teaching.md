@@ -15,7 +15,7 @@ author_profile: true
 **CHEN 3401W Junior Chemical Engineering Lab | University of Minnesota** <br/>
 * Assisted three teams of three students in running weekly pilot plant experiments (unit operations)
 * Utilized Socratic method of asking and answering questions to guide student troubleshooting 
-* Received student-nominated Council of Graduate Students Outstanding TA Award
+* Received student-nominated Council of Graduate Students Outstanding TA Award <br/>
 From a student's nomination:
 > Kristine Loh went above and beyond in our laboratory. She made sure the instructions from the professor were clear and would elaborate on them if need be. This helped me to be able to locate and critically evaluate information in a setting that was often overwhelming and stressful. Kristine treated me with respect and made me feel valued as a fellow woman in engineering, and this led me to acquire skills for effective citizenship and life-long learning. She was very approachable and made sure I knew that there was no such thing as a "dumb" question, which helped to improve my communication skills with superiors.
 
