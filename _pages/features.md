@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* COGS Outstanding TA Award ([Departmental Announcement](https://cse.umn.edu/cems/news/kristine-loh-receives-spring-2023-council-graduate-students-outstanding-teaching))
 * SWE Outstanding Collegiate Member Award ([UMN Announcement](https://cse.umn.edu/cems/news/cems-graduate-student-kristine-loh-wins-swe-outstanding-collegiate-member-award) and [SWE Announcement](https://alltogether.swe.org/2021/09/swe-announces-the-recipients-of-its-annual-awards-program/))
 * [Celebrating Asian American and Pacific Islander Heritage Month 2021](https://alltogether.swe.org/2021/04/asian-american-and-pacific-islanders/)
 * National Science Foundation Graduate Research Fellowship, NSF, March 2021: [UMN Award Announcement](https://www.cems.umn.edu/news/cems-students-and-alumni-receive-nsf-graduate-re-1) and [Drexel Award Announcement](https://drexel.edu/pennoni/urep/News/2021/April/2021%20NSF%20GRFP%20Honorees/)
@@ -29,6 +30,7 @@ author_profile: true
 * [How Self-Compassion Battles my Self-Doubt](https://swedrexelwellness.health.blog/2020/01/05/how-self-compassion-battles-my-self-doubt/)
 
 ### Videos
+* CEMS Outreach Tutorial Videos: [Identifying Lab Equipment](https://www.youtube.com/watch?v=YgpZVd-FSOc) and [Making the Perfect Cup of Coffee](https://www.youtube.com/watch?v=IlX2G2jNcFw)(Liquid Measurements)
 * [CEMS Outreach Story Video](https://youtu.be/Xb5C0wtA7As)
 * [CBE Undergraduate Commencement Speech](https://youtu.be/lL7TVMViHL8?t=800)<br/>
 * [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)
