@@ -15,6 +15,7 @@ author_profile: true
 **CHEN 3401W Junior Chemical Engineering Lab | University of Minnesota** <br/>
 * Assisted three teams of three students in running weekly pilot plant experiments (unit operations)
 * Utilized Socratic method of asking and answering questions to guide student troubleshooting 
+* Received student-nominated Council of Graduate Students Outstanding TA Award
 
 **CHEN 3102 Reaction Kinetics | University of Minnesota** <br/>
 * Graded weekly homework assignments and three exams from 99 undergraduate students
