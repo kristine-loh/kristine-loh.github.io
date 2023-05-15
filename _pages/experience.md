@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-Check out some pictures of my [research and manufacturing](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2) and [teaching](https://www.canva.com/design/DAFjBFLelNE/jJIut8B5GGJwOMEwNYiTIA/view?utm_content=DAFjBFLelNE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) experiences.
+Check out some pictures of my [research and manufacturing](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2) and [teaching](https://www.canva.com/design/DAFjBFLelNE/jJIut8B5GGJwOMEwNYiTIA/view?website#2) experiences.
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 
