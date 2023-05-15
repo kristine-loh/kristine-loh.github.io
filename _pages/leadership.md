@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Check out some pictures [here](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
+Check out some pictures of my [experiences](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
 
 **Professional Mentor to 14 Undergraduate Students, 2 Undergraduate Research Students, 4 Middle/High School Students, and 1 Post-Bac** <br/>
 *2015 - 2020* <br/>
