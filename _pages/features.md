@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* CEMS Outstanding TA Award 2023 ([Departmental Announcement](https://cse.umn.edu/cems/news/cems-graduate-students-honored-outstanding-teaching-assistant-ta-awards-1))
 * COGS Outstanding TA Award ([Departmental Announcement](https://cse.umn.edu/cems/news/kristine-loh-receives-spring-2023-council-graduate-students-outstanding-teaching))
 * SWE Outstanding Collegiate Member Award ([UMN Announcement](https://cse.umn.edu/cems/news/cems-graduate-student-kristine-loh-wins-swe-outstanding-collegiate-member-award) and [SWE Announcement](https://alltogether.swe.org/2021/09/swe-announces-the-recipients-of-its-annual-awards-program/))
 * [Celebrating Asian American and Pacific Islander Heritage Month 2021](https://alltogether.swe.org/2021/04/asian-american-and-pacific-islanders/)
