@@ -32,7 +32,7 @@ author_profile: true
 * [How Self-Compassion Battles my Self-Doubt](https://swedrexelwellness.health.blog/2020/01/05/how-self-compassion-battles-my-self-doubt/)
 
 ### Videos
-* CEMS Outreach Tutorial Videos: [Identifying Lab Equipment](https://www.youtube.com/watch?v=YgpZVd-FSOc) and [Making the Perfect Cup of Coffee](https://www.youtube.com/watch?v=IlX2G2jNcFw)(Liquid Measurements)
+* CEMS Outreach Tutorial Videos: [Identifying Lab Equipment](https://www.youtube.com/watch?v=YgpZVd-FSOc) and [Making the Perfect Cup of Coffee](https://www.youtube.com/watch?v=IlX2G2jNcFw) (Liquid Measurements)
 * [CEMS Outreach Story Video](https://youtu.be/Xb5C0wtA7As)
 * [CBE Undergraduate Commencement Speech](https://youtu.be/lL7TVMViHL8?t=800)<br/>
 * [What Does SWE Mean to You? - Created for 2020 first GBM](https://www.youtube.com/watch?v=QuKjWY_E-aU)
