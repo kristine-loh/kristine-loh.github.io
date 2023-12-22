@@ -11,4 +11,4 @@ Want to connect and expand your network? <br/>
 Got a great STEM joke you'd like to share? <br/>
 
 Feel free to email me at [loh00014@umn.edu](mailto:loh00014@umn.edu) <br/>
-OR send me a DM on Twitter [@KristineL0h](https://twitter.com/KristineL0h)!
+OR send me a DM on Twitter/X [@KristineL0h](https://twitter.com/KristineL0h)!
