@@ -6,6 +6,17 @@ author_profile: true
 ## Publications
 1. "Photoluminescent Si/SiO<sub>2</sub> Core/Shell Quantum Dots Prepared by High-Pressure Water Vapor Annealing for Solar Concentrators, Light-Emitting Devices, and Bioimaging," **Kristine Q. Loh**, Himashi P. Andaraarachchi, Vivian E. Ferry, Uwe R. Kortshagen, _ACS Applied Nano Materials_, **6**, 7, 6444-6553 (2023). doi: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130)
 
+## Presentations
+_*Denotes undergraduate research mentee_
+1. **K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, (April 2024). Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in The United States. Oral Presentation. 2024 Materials Research Society Spring Meeting & Exhibit. Seattle, WA.
+2. **K.Q. Loh**, H.P. Andaraarachchi, U.R. Kortshagen, V.E. Ferry, (September 2023). Photoluminescent Si/SiO2 Core/shell Quantum Dots Prepared via High-Pressure Water Vapor Annealing for Solar Concentrators, Luminescent Devices, and Bioimaging. Student Capsule Presentation. American Vacuum Society (AVS) Minnesota Chapter Symposium, Minneapolis, MN.
+3. **K. Q. Loh**, U.R. Kortshagen, V.E. Ferry, (May 2023). Luminescent Solar Concentration (LSC) Greenhouses: Optimization for Net Zero Energy and Improved Crop Growth. Poster Presentation. Industrial Partnership for Research in Interfacial & Materials Engineering, Minneapolis, MN.
+4. A. Chapa*, **K. Q. Loh**, U.R. Kortshagen, V.E. Ferry, (April 2023). Improving the dispersion of silicon/silicon dioxide quantum dots. Poster Presentation. 2023 Materials Research Society Spring Meeting & Exhibit. San Francisco, CA.
+5. **K. Q. Loh**, V.E. Ferry, U.R. Kortshagen, (April 2023). Tunable, high intensity photoluminescence from Si/SiO2 core/shell quantum dots via high-pressure water vapor annealing. Oral Presentation. 2023 Materials Research Society Spring Meeting & Exhibit. San Francisco, CA.
+6. **K. Q. Loh**, U.R. Kortshagen, V.E. Ferry, (June 2022). Tunable, high intensity photoluminescence from Si/SiO2 core/shell nanocrystals for LSCs. Poster Presentation. Industrial Partnership for Research in Interfacial & Materials Engineering, Minneapolis, MN.
+7. **K.Q. Loh**, K. Hantanasirisakul, K. Maleski, Y. Gogotsi, J.B. Baxter, (October 2019). Understanding Time-Dependent Light-Matter Interactions of Mo2TiC2 MXene Films. Poster Presentation. Future Leaders in Chemical Engineering Award Symposium, North Carolina State University, Raleigh, NC. (September 2019). Distinguished Undergraduate Research Workshop, Wayne State University, Detroit, MI.
+8. **K.Q. Loh**, M.E. Edley, J.B. Baxter, (February 2018). SbSI Microrods as a Ferroelectric Solar Cell Absorber Material. Poster Presentation. SASE Northeast Regional Conference, Stevens Institute of Technology, Jersey City, NJ. Received 1st Place Prize in Life Sciences Category. (May 2017). Week of Undergraduate Excellence, Drexel University, Philadelphia, PA. (April 2017) Stanford Research Conference, Stanford University, Stanford, CA. (February 2017). SWE Region E Conference, Syracuse University, Syracuse, NY. Received 4th Place Prize Overall. (August 2016). STAR Scholars Summer Showcase, Drexel University, Philadelphia, PA.
+
 ## Academic Research Experience
 **Ferry and Kortshagen Groups | Minneapolis, MN**<br/>
 *Graduate Research Fellow | January 2021 to Present <br/>
