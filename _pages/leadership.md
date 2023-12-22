@@ -10,12 +10,12 @@ author_profile: true
 
 Check out some pictures of my [experiences](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
 
-**Professional Mentor to 14 Undergraduate Students, 2 Undergraduate Research Students, 4 Middle/High School Students, and 1 Post-Bac** <br/>
+**Professional Mentor to 14 Undergraduate Students, 1 Graduate Student, 4 Undergraduate Research Students, 4 Middle/High School Students, and 1 Post-Bac** <br/>
 *2015 - 2020* <br/>
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
 
 *2020 - Present* <br/>
-Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Research Mentor to one mechanical engineering undergraduate student through the UMN ME3 REU Program and one mechanical engineering undergraduate student through the UMN MRSEC REU Program. Career mentor to one high school senior through the virtual Professional Advancement in Career Education (PACE) Program. Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
+Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Research Mentor to one chemical engineering undergraduate student research volunteer, two mechanical engineering undergraduate students through the UMN ME3 REU Program, and one mechanical engineering undergraduate student through the UMN MRSEC REU Program. Career mentor to one high school senior through the virtual Professional Advancement in Career Education (PACE) Program. Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
 
 
 **Society of Women Engineers** <br/>
@@ -25,6 +25,8 @@ GradSWE Committee Chair | March 2021 to July 2022
  * Increased membership by 30% in one year
 
 *Societal*<br/>
+
+SWE Awards Coordinator for the Rising Star Award | FY2023
 
 SWE Awards Judge | 2021
  * 2022 Individual Awards
@@ -62,6 +64,10 @@ STEM Webinar Moderator, Panel Organizer, and Grant Writer | June 2020 to Present
  * Organized and hosted three virtual panels to discuss multiple aspects of college life for women in STEM (2021)
   
 **American Institute of Chemical Engineers**<br/>
+Education Division Communications Committee Team Member and Twitter/X Lead | December 2022 to Present
+ * Create graphics for AIChE conferences and EdDiv events
+ * Manage Twitter/X account and create content for the EdDiv community
+
 Minority Affairs Committee Communications Team Member | May 2020 to July 2021
  * Created graphics and flyers for event promotion on social media
  * Compiled and created quarterly newsletter ([Fall 2020 Newsletter](https://www.aiche.org/sites/default/files/community/163461/aiche-community-site-newsletter/1434866/fall2020macnewsletter.pdf))
@@ -116,6 +122,7 @@ SWENext <br/>
  * CovEd Speaker Series: Personal Experiences Applying to College (09/27/2020)
  
 *Drexel University* <br/>
+ * Velay Fellows Mentorship Meeting - Grad Students (08/17/23)
  * 20 Years of STAR Lecture Series (08/10/22)
  * Velay Fellows Mentorship Meeting - Grad Students (07/21/22)
  * Velay Fellows Mentorship Meeting - Grad Students (07/30/21)
