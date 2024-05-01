@@ -43,4 +43,5 @@ These are my favorite recipes that I've tried and approve of.
 * [Vegan Chocolate Cupcakes with Aquafaba](https://mycrazygoodlife.com/vegan-aquafaba-chocolate-stout-cupcakes/) - These are great if you just used up a can of chickpeas and have leftover aquafaba! I'm allergic to alcohol so I didn't include the beer, but these tasted great nonetheless. 
 * [Oatmeal Raisin Cookies](https://sallysbakingaddiction.com/soft-chewy-oatmeal-raisin-cookies/)
 * [Vegan Chocolate Brownies](https://www.ruchiskitchen.com/vegan-chocolate-brownies/)
+* [Gluten-free Chocolate Cake](https://georgeats.com/recipes/gluten-free-chocolate-cake-the-easiest-ever/)
 * [Sour Cream Raisin Bars](https://hummingbirdthyme.com/sour-cream-raisin-bars/)
