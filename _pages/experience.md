@@ -10,7 +10,7 @@ Check out some pictures of my [research and manufacturing](https://www.canva.com
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 **SCI 123 The Science of Food and Cooking - Augsburg University** <br/>
-Adjunct Faculty Instructor: September 2024 to December 2024
+Adjunct Faculty Instructor: September 2024 to December 2024 <br/>
 **MATS 4400 Senior Design Project - University of Minnesota** <br/>
 Teaching Assistant: January 2024 to May 2024<br/>
 **Preparing Future Faculty Program - University of Minnesota** <br/>
