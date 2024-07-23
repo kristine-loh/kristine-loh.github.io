@@ -9,6 +9,7 @@ author_profile: true
 * Mentored 4 materials science senior design teams through the engineering design process, including
 engineering and financial calculations as well as technical communication
 * Provided detailed feedback for 4 major reports and presentations, as well as 3 homework assignments
+
 **Preparing Future Faculty Program | University of Minnesota and Augsburg University** <br/>
 *	Co-taught Physics for Fine Arts undergraduate class (designed and presented two lectures and assist with weekly labs) at Augsburg University under the guidance of Professor Moumita Dasgupta
     * First lesson based off of Chapters 12 and 13 in _Physics in the Arts_, [Physics of Sound and Music](PhysicsofSoundandMusic.pdf)
