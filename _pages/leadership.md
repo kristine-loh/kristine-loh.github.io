@@ -25,8 +25,7 @@ GradSWE Committee Chair | March 2021 to July 2022
  * Increased membership by 30% in one year
 
 *Societal*<br/>
-
-SWE Awards Coordinator for the Rising Star Award | FY2023
+SWE Awards Coordinator for the Rising Star Award | FY23 - FY24
 
 SWE Awards Judge | 2021
  * 2022 Individual Awards
