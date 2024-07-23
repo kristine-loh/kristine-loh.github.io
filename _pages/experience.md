@@ -9,7 +9,10 @@ author_profile: true
 Check out some pictures of my [research and manufacturing](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2) and [teaching](https://www.canva.com/design/DAFjBFLelNE/jJIut8B5GGJwOMEwNYiTIA/view?website#2) experiences.
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
-
+**SCI 123 The Science of Food and Cooking - Augsburg University** <br/>
+Adjunct Faculty Instructor: September 2024 to December 2024
+**MATS 4400 Senior Design Project - University of Minnesota** <br/>
+Teaching Assistant: January 2024 to May 2024<br/>
 **Preparing Future Faculty Program - University of Minnesota** <br/>
 Co-Taught Physics for Fine Arts at Augsburg University: January 2023 to May 2023<br/>
 **CHEN 3401W Junior Chemical Engineering Lab - University of Minnesota** <br/>
