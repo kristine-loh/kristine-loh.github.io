@@ -38,7 +38,7 @@ Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Presen
 
 SWENext Newsletter Reporter | February 2020 to July 2022
  * Interviewed and featured a unique engineer for monthly high school SWENext Newsletter
- * Wrote "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 students
+ * Wrote "day in the life" stories about remarkable women engineers to introduce various fields of engineering to K-12 students (some of my favorite articles: [computer engineering](https://alltogether.swe.org/2022/03/a-day-in-the-life-of-computer-engineer-casper-coleman/), [systems engineering](https://alltogether.swe.org/2022/05/a-day-in-the-life-of-systems-engineer-cherie-cain/), [environmental engineering](https://alltogether.swe.org/2022/02/a-day-in-the-life-of-environmental-engineer-phoebe-suina/), and [electrical engineering](https://alltogether.swe.org/2021/12/a-day-in-the-life-of-electrical-engineer-sowmya-nagesh/))
  * Facilitator for two SWENext Connect workshops
  
 *Drexel University Section*<br/>
