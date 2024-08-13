@@ -113,6 +113,7 @@ UMN SWE <br/>
  * HeForSWE Webinar (03/29/2021)
  
 SWENext <br/>
+ * SHLA Meet-up: Collegiate Engineers (08/13/2024)
  * SWENext Chat Together: College Essays and the Common Application (08/20/2020)
  * SWENext Chat Together: College Decisions (04/16/2020)
  * Transition to College with Confidence: [College Panel](https://alltogether.swe.org/2020/01/philadelphia-outreach-event-wins-swe-award/) (06/29/2019)
