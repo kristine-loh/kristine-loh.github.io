@@ -6,12 +6,12 @@ author_profile: true
 
 ## Teaching Experience
 **Introduction to Engineering Pre-College Program | Columbia University** <br/>
-* Discussed chemical engineering careers and advice to high school students in two guest lectures
-From student thank you notes:
-> Your speaking inspired me to consider chemical engineering as a career option. You gave me a comprehensive understanding of the skills and subjects in chemical engineering. Thank you for your time.
-> Thank you so much for coming and speaking with. Your talk inspired me a lot as a women who want to get into the engineering field, as a chemical engineer. It fully cleared to me what I want to do and what I should study. Thank you so much.
-> Thank you for speaking to the class. It was very informative and fun to listen to!
-> Thank you so much for not only sharing your career, but your life with us. Your transparency really showed how passionate you are about your field and helped me understand the struggles you have faced. You are an amazing engineer and strong woman.
+* Discussed chemical engineering careers and advice to high school students in two guest lectures<br/>
+From student thank you notes:<br/>
+> Your speaking inspired me to consider chemical engineering as a career option. You gave me a comprehensive understanding of the skills and subjects in chemical engineering. Thank you for your time.<br/>
+> Thank you so much for coming and speaking with. Your talk inspired me a lot as a women who want to get into the engineering field, as a chemical engineer. It fully cleared to me what I want to do and what I should study. Thank you so much.<br/>
+> Thank you for speaking to the class. It was very informative and fun to listen to!<br/>
+> Thank you so much for not only sharing your career, but your life with us. Your transparency really showed how passionate you are about your field and helped me understand the struggles you have faced. You are an amazing engineer and strong woman.<br/>
 
 **MATS 4400 Senior Design Project | University of Minnesota** <br/>
 * Mentored 4 materials science senior design teams through the engineering design process, including
