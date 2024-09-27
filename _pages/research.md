@@ -4,12 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 ## Peer-Reviewed Publications
-2. “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States,” **Kristine Q. Loh**, Kale Harbick, Nathan J. Eylands, Uwe R. Kortshagen, Vivian E. Ferry (Submitted).
-1. "Photoluminescent Si/SiO<sub>2</sub> Core/Shell Quantum Dots Prepared by High-Pressure Water Vapor Annealing for Solar Concentrators, Light-Emitting Devices, and Bioimaging," **Kristine Q. Loh**, Himashi P. Andaraarachchi, Vivian E. Ferry, Uwe R. Kortshagen, _ACS Applied Nano Materials_, **6**, 7, 6444-6553 (2023). doi: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130)
+1. “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States,” **Kristine Q. Loh**, Kale Harbick, Nathan J. Eylands, Uwe R. Kortshagen, Vivian E. Ferry (Submitted).
+2. "Photoluminescent Si/SiO<sub>2</sub> Core/Shell Quantum Dots Prepared by High-Pressure Water Vapor Annealing for Solar Concentrators, Light-Emitting Devices, and Bioimaging," **Kristine Q. Loh**, Himashi P. Andaraarachchi, Vivian E. Ferry, Uwe R. Kortshagen, _ACS Applied Nano Materials_, **6**, 7, 6444-6553 (2023). doi: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130)
 
 ## Peer-Reviewed Conference Proceedings
-2. “Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in the U.S.,” **Kristine Q. Loh**, Kale Harbick, Nathan J. Eylands, Uwe R. Kortshagen, Vivian E. Ferry, _AgriVoltaics World Conference 2024_, Denver, CO, 2024. (Submitted)
-1. “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” **Kristine Q. Loh**, Moumita Dasgupta, _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). doi: [10.18260/1-2-660.1137-46369](https://10.18260/1-2-660.1137-46369)
+1. “Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in the U.S.,” **Kristine Q. Loh**, Kale Harbick, Nathan J. Eylands, Uwe R. Kortshagen, Vivian E. Ferry, _AgriVoltaics World Conference 2024_, Denver, CO, 2024. (Submitted)
+2. “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” **Kristine Q. Loh**, Moumita Dasgupta, _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). doi: [10.18260/1-2-660.1137-46369](https://10.18260/1-2-660.1137-46369)
 ## Presentations
 _*Denotes undergraduate research mentee_
 1. **K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, (April 2024). Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in The United States. Oral Presentation. 2024 Materials Research Society Spring Meeting & Exhibit. Seattle, WA.
