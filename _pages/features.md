@@ -8,6 +8,7 @@ author_profile: true
 
 ### Awards and Features
 * 500 Queer Scientists [Profile](https://500queerscientists.com/kristine-loh/)
+* President's Student Leadership and Service Award [2024 Recipients](https://docs.google.com/document/d/1KfikoeNHYcZUYjCgZZquTE1V2jQwm939vzvnEEa9fpg/edit)
 * CSE Inventing Tomorrow [Magazine](https://cse.umn.edu/college/sustainable-materials)
 * CEMS Outstanding TA Award 2023 ([Departmental Announcement](https://cse.umn.edu/cems/news/cems-graduate-students-honored-outstanding-teaching-assistant-ta-awards-1))
 * COGS Outstanding TA Award ([Departmental Announcement](https://cse.umn.edu/cems/news/kristine-loh-receives-spring-2023-council-graduate-students-outstanding-teaching))
