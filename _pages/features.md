@@ -25,7 +25,6 @@ author_profile: true
 ### Events
 * [A Virtual Farewell to the Class of 2020](https://drexel.edu/engineering/news-events/news/archive/2020/June/a-virtual-farewell-to-the-class-of-2020/)
 * [Lives and Lessons of the Underrepresented in STEM](https://drexel.edu/engineering/news-events/news/archive/2018/November/swe-forum-addresses-challenges-of-underrepresented/)
-* [Drexel Admitted Students Day (Slide 20)](https://drexel.edu/~/media/Files/undergrad/moment/college-presentations/Engineering%20-%20ASD%20Presentation.ashx?la=en)
 * [Drexel ASCE Diversity and Inclusion Conference Student Panel](https://drexel.edu/engineering/news-events/news/archive/2019/May/asce-hosts-conference-on-diversity-and-inclusion/)
 * [Introduction to Engineering at Independence Charter School](https://www.thetriangle.org/news/society-woman-engineers-promotes-stem-education/)
 * [Engineering Night for Girls at North Penn High School](https://www.pressreader.com/usa/the-reporter-lansdale-pa/20170210/281483571128287)
