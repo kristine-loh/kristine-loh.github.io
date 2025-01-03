@@ -40,6 +40,7 @@ Advisors: Drs. Vivian Ferry and Uwe Kortshagen*
 * ­Characterized Si NCs using steady-state and time-resolved PL spectroscopy, as well as other surface characterization techniques, including x-ray diffraction spectroscopy (XRD), Fourier transform infrared spectroscopy (FTIR), and electron paramagnetic resonance spectroscopy (EPR) 
 * Deposited homogenous silicon nitride thin films using rotating stage motor
 * Mentored a three REU students and taught wet chemistry lab skills as well as materials characterization skills (FTIR, UV-Vis)
+* Mentored two Undergraduate Research Opportunities Program (UROP) Scholars and taught data science skills and coding skills in MATLAB 
 * Assisted in the peer review process for a journal article about horticulture solar concentrators
 * Supported fellow graduate students in reviewing written preliminary exams and doctoral theses
 
