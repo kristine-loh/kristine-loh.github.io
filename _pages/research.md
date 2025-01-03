@@ -12,7 +12,7 @@ author_profile: true
 
 ## Peer-Reviewed Conference Proceedings
 1. **K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in the U.S.,” _AgriVoltaics World Conference 2024_, Denver, CO, 2024. (Submitted) 
-2. **K.Q. Loh**, M. Dasgupta, “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). DOI: [10.18260/1-2-660.1137-46369](https://10.18260/1-2-660.1137-46369)
+2. **K.Q. Loh**, M. Dasgupta, “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). DOI: [10.18260/1-2-660.1137-46369](https://peer.asee.org/46369)
 
 ## Presentations
 _*Denotes undergraduate research mentee_
