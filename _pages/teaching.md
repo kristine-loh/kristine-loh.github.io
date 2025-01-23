@@ -10,7 +10,7 @@ author_profile: true
 * Update weekly lectures and associated cooking labs, course page on Moodle, and summative assessments to suit a shorter night class 
 
 **Introduction to Engineering Pre-College Program | Guest Lecturer | Columbia University** <br/>
-* Discussed chemical engineering careers and advice to high school students in two guest lectures [(Slides)](files/KL_ColumbiaGuestSpeaker_2024.pdf)<br/>
+* Discussed chemical engineering careers and advice to high school students in two guest lectures [(Slides)](https://kristine-loh.github.io/files/KL_ColumbiaGuestSpeaker_2024.pdf)<br/>
 From student thank you notes:<br/>
 > Your speaking inspired me to consider chemical engineering as a career option. You gave me a comprehensive understanding of the skills and subjects in chemical engineering. Thank you for your time.<br/>
 > Thank you so much for coming and speaking with [us]. Your talk inspired me a lot as a women who want to get into the engineering field, as a chemical engineer. It fully cleared to me what I want to do and what I should study. Thank you so much.<br/>
