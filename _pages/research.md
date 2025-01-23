@@ -7,7 +7,7 @@ author_profile: true
 1. **K.Q. Loh**, C. Nieters, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Quantum Dot Films for Lettuce Growth Enhancement: A Computational Study,” (In Preparation).
 2.	T. J. Cameron, B. Klause, **K.Q. Loh**, U.R. Kortshagen, “Aluminum-Silica Core-Shell Nanoparticles via Nonthermal Plasma Synthesis,” (Submitted). 
 3.	**K. Q. Loh**, B. L. Stottrup, “Ten Years of the Science of Food and Cooking Course at Augsburg University,” (Submitted).
-4.	**K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States.” _Advanced Sustainable Systems_, 2400749 (2024). [PDF](/../files/Loh_AdvSustainSyst.pdf) DOI: [10.1002/adsu.202400749](https://doi.org/10.1002/adsu.202400749) 
+4.	**K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States.” _Advanced Sustainable Systems_, 2400749 (2024). DOI: [10.1002/adsu.202400749](https://doi.org/10.1002/adsu.202400749) [[PDF]](/../../files/Loh_AdvSustainSyst.pdf) 
 5.	**K.Q. Loh**, H. P. Andaraarachchi, V.E. Ferry, U.R. Kortshagen, “Photoluminescent Si/SiO<sub>2</sub> Core/shell Quantum Dots Prepared via High-Pressure Water Vapor Annealing for Solar Concentrators, Luminescent Devices, and Bioimaging.” _ACS Applied Nano Materials_, 6(7) 6444-6453 (2023). DOI: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130) [PDF](files/Loh_ACSANM.pdf)
 
 ## Peer-Reviewed Conference Proceedings
