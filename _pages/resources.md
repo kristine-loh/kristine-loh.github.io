@@ -13,7 +13,7 @@ Check out my [guide](https://docs.google.com/document/d/1bSxuAMzOgqoiT1-ACNlNnXG
 ### CovEducation
 Know a K-12 student who needs free online tutoring? Find a mentor at [https://www.coved.org/findamentor](https://www.coved.org/findamentor). I can help with English, Science, Math, AP Calculus AB, AP English Literature, AP English Language, AP Chemistry, College Prep - Essays, Writing, and Chemistry. 
 ### Scholarships for Women in STEM
-The Society of Women Engineers (SWE) offers more than [$1 million](https://swe.org/scholarships/) in scholarships each year for women in ABET-accredited programs, with deadlines often in January or February. [Madison Trust](https://www.madisontrust.com/client-resources/articles/scholarships-for-women-in-stem/) has also compiled a list of additional scholarship opportunities.
+The Society of Women Engineers (SWE) offers more than [$1 million](https://swe.org/scholarships/) in scholarships each year for women and non-binary students in ABET-accredited programs, with deadlines often in January or February. 
 
 ### Blogs/websites I follow
 * Alex Lang's [website](https://www.alexhunterlang.com/nsf-fellowship) - gives great fellowship application advice
