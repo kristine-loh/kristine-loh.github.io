@@ -12,7 +12,7 @@ redirect_from:
 View my full CV [here](Loh_CV_5.pdf) (as of January 2025). 
 
 ## Education
-**University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to Present**<br/>
+**University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to June 2025**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 [Ferry](https://ferry.cems.umn.edu/) and [Kortshagen](https://kortshagen.umn.edu/) Lab Groups <br/>
 *National Science Foundation Graduate Research Fellow*<br/>
