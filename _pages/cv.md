@@ -15,6 +15,7 @@ View my full CV [here](Loh_CV_5.pdf) (as of January 2025).
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to June 2025**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 [Ferry](https://ferry.cems.umn.edu/) and [Kortshagen](https://kortshagen.umn.edu/) Lab Groups <br/>
+Dissertation: [Nontoxic Nanomaterials for Luminescent Solar Concentrators in Agrivoltaic Systems](https://www.proquest.com/docview/3234927280/fulltextPDF/1B0A1A2312074FD8PQ/1?accountid=14586&sourcetype=Dissertations%20&%20Theses)
 *National Science Foundation Graduate Research Fellow*<br/>
 *College of Science and Engineering Fellow*<br/>
 
