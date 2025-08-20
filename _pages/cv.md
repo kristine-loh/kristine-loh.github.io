@@ -15,7 +15,7 @@ View my full CV [here](Loh_CV_5.pdf) (as of January 2025).
 **University of Minnesota - Twin Cities | Minneapolis, MN | September 2020 to June 2025**<br/>
 Doctor of Philosophy in Chemical Engineering <br/>
 [Ferry](https://ferry.cems.umn.edu/) and [Kortshagen](https://kortshagen.umn.edu/) Lab Groups <br/>
-Dissertation: [Nontoxic Nanomaterials for Luminescent Solar Concentrators in Agrivoltaic Systems](https://www.proquest.com/docview/3234927280/fulltextPDF/1B0A1A2312074FD8PQ/1?accountid=14586&sourcetype=Dissertations%20&%20Theses)
+Dissertation: [Nontoxic Nanomaterials for Luminescent Solar Concentrators in Agrivoltaic Systems](https://www.proquest.com/docview/3234927280/fulltextPDF/1B0A1A2312074FD8PQ/1?accountid=14586&sourcetype=Dissertations%20&%20Theses)<br/>
 *National Science Foundation Graduate Research Fellow*<br/>
 *College of Science and Engineering Fellow*<br/>
 
@@ -32,8 +32,8 @@ Senior Design Project: Sustainable Production of Ammonia<br/>
 Exchange Undergraduate Student in Mechanical Engineering<br/>
 
 ## Skills
-**Laboratory:** Nonthermal plasma synthesis of nanocrystals, FTIR, XRD, EPR, PLQY, TRPL, HPLC, SILAR, PEC Testing, UV-Vis, Glove Box,<br/>
-**Programming Languages:** MATLAB (Proficient), Python (Basic), HTML/CSS (Basic)<br/>
-**Software:** Origin, AutoIt, AutoCAD, Blender Autodesk Inventor, Kickstart, SAP, Trackwise, Empower, Fusion 360, Microsoft Office<br/>
-**Foreign language:** Conversational Mandarin Chinese, Limited Working Proficiency Spanish, Basic German<br/>
+**Laboratory:** Nonthermal plasma synthesis of nanocrystals, FTIR, XRD, EPR, PLQY, TRPL, HPLC, SILAR, UV-Vis, Glove Box,<br/>
+**Programming Languages:** MATLAB (Proficient), Python (Proficient), HTML/CSS (Basic)<br/>
+**Software:** Origin, AutoIt, AutoCAD, Blender, SolidWorks, Autodesk Inventor, Fusion 360, Microsoft Office<br/>
+**Foreign Language:** Conversational Mandarin Chinese, Conversational Cantonese, Limited Working Proficiency Spanish, Basic German<br/>
   
