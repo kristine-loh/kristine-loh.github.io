@@ -12,9 +12,9 @@ author_profile: true
 
 ## Research Facilities and Instrumentation 
 <ul>
-  <li>[StellarNet 220 - 1100 nm spectrometer](https://www.stellarnet.us/spectrometers/black-comet-sr/)</li>
-  <li>Parr hydrothermal synthesis vessels</li>
-  <li>Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment)</li>
+  <li> [StellarNet 220 - 1100 nm spectrometer](https://www.stellarnet.us/spectrometers/black-comet-sr/) </li>
+  <li> Parr hydrothermal synthesis vessels </li>
+  <li> Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment) </li>
 </ul>
 
 ## Peer-Reviewed Publications
