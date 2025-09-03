@@ -11,11 +11,9 @@ author_profile: true
 </ul> 
 
 ## Research Facilities and Instrumentation 
-<ul>
-  <li> [StellarNet 220 - 1100 nm spectrometer](https://www.stellarnet.us/spectrometers/black-comet-sr/) </li>
-  <li> Parr hydrothermal synthesis vessels </li>
-  <li> Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment) </li>
-</ul>
+* [StellarNet 220 - 1100 nm spectrometer](https://www.stellarnet.us/spectrometers/black-comet-sr/) </li>
+* Parr hydrothermal synthesis vessels
+* Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment)
 
 ## Peer-Reviewed Publications
 1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Quantum Dot Films for Lettuce Growth Enhancement,” (In Revision).
