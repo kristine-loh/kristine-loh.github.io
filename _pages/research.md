@@ -16,15 +16,16 @@ author_profile: true
 * Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment)
 
 ## Peer-Reviewed Publications
-1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Quantum Dot Films for Lettuce Growth Enhancement,” (In Revision).
+1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Spectral Engineering with Quantum Dot Films for Enhanced Crop Growth,” _ACS Applied OpticalMaterials_, 10(3), 2251-2256 (2025). DOI: [10.1021/acsaom.5c00338](https://doi.org/10.1021/acsaom.5c00338)
 2. **K. Q. Loh**, B. L. Stottrup, “Ten Years of the Science of Food and Cooking Course at Augsburg University,” (Submitted).
 3.	T. J. Cameron, B. Klause, **K.Q. Loh**, U.R. Kortshagen, “Aluminum-Silica Core-Shell Nanoparticles via Nonthermal Plasma Synthesis,” _Nanomaterials_, 15(3), 237 (2025). DOI: [10.3390/nano15030237](https://doi.org/10.3390/nano15030237) 
 4.	**K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States.” _Advanced Sustainable Systems_, 2400749 (2024). DOI: [10.1002/adsu.202400749](https://doi.org/10.1002/adsu.202400749) 
 5.	**K.Q. Loh**, H. P. Andaraarachchi, V.E. Ferry, U.R. Kortshagen, “Photoluminescent Si/SiO<sub>2</sub> Core/shell Quantum Dots Prepared via High-Pressure Water Vapor Annealing for Solar Concentrators, Luminescent Devices, and Bioimaging.” _ACS Applied Nano Materials_, 6(7) 6444-6453 (2023). DOI: [10.1021/acsanm.3c01130](https://doi.org/10.1021/acsanm.3c01130)
 
 ## Peer-Reviewed Conference Proceedings
-1. **K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in the U.S.,” _AgriVoltaics Conference Proceedings_, 3 (2024). DOI: [10.52825/agripv.v3i.1376](https://doi.org/10.52825/agripv.v3i.1376) 
-2. **K.Q. Loh**, M. Dasgupta, “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). DOI: [10.18260/1-2-660.1137-46369](https://peer.asee.org/46369)
+1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, "Enhancing Lettuce Yields using Quantum Dot Films," _AgriVoltaics Conference 2025 Proceedings_ (In Review). 
+2. **K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Luminescent Solar Concentrator Greenhouses for Concurrent Energy Generation and Lettuce Production in the U.S.,” _AgriVoltaics Conference Proceedings_, 3 (2024). DOI: [10.52825/agripv.v3i.1376](https://doi.org/10.52825/agripv.v3i.1376) 
+3. **K.Q. Loh**, M. Dasgupta, “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). DOI: [10.18260/1-2-660.1137-46369](https://peer.asee.org/46369)
 
 ## Presentations
 _<u> Denotes undergraduate research mentee </u>_
