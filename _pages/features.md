@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* [XRD](https://www.swarthmore.edu/news-events/innovation-upgraded-x-ray-tool-to-enhance-research-experience-physics-chemistry-and) in ENGR 082 at Swarthmore
 * 500 Queer Scientists [Profile](https://500queerscientists.com/kristine-loh/)
 * President's Student Leadership and Service Award [2024 Recipients](https://docs.google.com/document/d/1KfikoeNHYcZUYjCgZZquTE1V2jQwm939vzvnEEa9fpg/edit)
 * CSE Inventing Tomorrow [Magazine](https://cse.umn.edu/college/sustainable-materials)
