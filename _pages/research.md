@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Current Research Projects
 <ul>
-  <li>Crop growth under fluorescent or luminescent films for controlled environment agriculture</li>
+  <li>Crop growth under luminescent solar concentrators</li>
   <li>Sustainable synthesis of nanomaterials for sustainable agriculture</li>
   <li>Synthesis and processing of carbon dots for luminescent solar concentrators</li>
 </ul> 
