@@ -10,13 +10,13 @@ author_profile: true
   <li>Synthesis and processing of carbon dots for luminescent solar concentrators</li>
 </ul> 
 
-## Research Facilities and Instrumentation 
+## Instrumentation and Links to Research Facilities
 * [StellarNet 220 - 1100 nm spectrometer](https://www.stellarnet.us/spectrometers/black-comet-sr/) 
-* Parr hydrothermal synthesis vessels
+* Parr acid digestion vessels [(4749)](https://www.parrinst.com/products/sample-preparation/acid-digestion/general-purpose-acid-digestion-vessel-model-4749-23-ml/)
 * Swarthmore [Chemistry Characterization Facilities](https://www.swarthmore.edu/chemistry-biochemistry/facilities-and-equipment)
 
 ## Peer-Reviewed Publications
-1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Spectral Engineering with Quantum Dot Films for Enhanced Crop Growth,” _ACS Applied OpticalMaterials_, 10(3), 2251-2256 (2025). DOI: [10.1021/acsaom.5c00338](https://doi.org/10.1021/acsaom.5c00338)
+1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, “Spectral Engineering with Quantum Dot Films for Enhanced Crop Growth,” _ACS Applied Optical Materials_, 10(3), 2251-2256 (2025). DOI: [10.1021/acsaom.5c00338](https://doi.org/10.1021/acsaom.5c00338)
 2. **K. Q. Loh**, B. L. Stottrup, “Ten Years of the Science of Food and Cooking Course at Augsburg University,” (Submitted).
 3.	T. J. Cameron, B. Klause, **K.Q. Loh**, U.R. Kortshagen, “Aluminum-Silica Core-Shell Nanoparticles via Nonthermal Plasma Synthesis,” _Nanomaterials_, 15(3), 237 (2025). DOI: [10.3390/nano15030237](https://doi.org/10.3390/nano15030237) 
 4.	**K.Q. Loh**, K. Harbick, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, “Design Guidelines for Luminescent Solar Concentrator Greenhouses in the United States.” _Advanced Sustainable Systems_, 2400749 (2024). DOI: [10.1002/adsu.202400749](https://doi.org/10.1002/adsu.202400749) 
