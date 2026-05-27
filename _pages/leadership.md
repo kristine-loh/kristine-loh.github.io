@@ -10,27 +10,26 @@ author_profile: true
 
 Check out some pictures of my [experiences](https://www.canva.com/design/DAEBhPUYyUw/KlpMFDfjNx-enIyxhwRbvQ/view?website#2). <br/>
 
-**Professional Mentor to 14 Undergraduate Students, 1 Graduate Student, 4 Undergraduate Research Students, 4 Middle/High School Students, and 1 Post-Bac** <br/>
+*2025 - Present* <br/>
+Member of the [SWE Mentor Network](https://swe.turazo.com/), mentor to one [Richard Rubin Scholar](https://www.swarthmore.edu/richard-rubin-scholar-mentor-program), informal mentor for resume/personal statement reviews. 
+
+*2020 - 2025* <br/>
+Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Research Mentor to one chemical engineering undergraduate student research scholar, one math/computer science undergraduate student research scholar, two mechanical engineering undergraduate students through the UMN ME3 REU Program, and one mechanical engineering undergraduate student through the UMN MRSEC REU Program. Career mentor to one high school senior through the virtual Professional Advancement in Career Education (PACE) Program. Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
+
 *2015 - 2020* <br/>
 Formal mentor in Drexel Society of Women Engineers, Drexel Society of Asian Scientists and Engineers, and Drexel American Institute of Chemical Engineers. <br/> 
 
-*2020 - Present* <br/>
-Formal mentor in Drexel SWE Professional Mentorship, UMN Women in Science and Engineering Initiative Undergrad-Grad Mentorship, UMN Friend in STEM, and GradSWE Mentorship Programs. Mentor to one post-bac student interested in graduate school through Científico Latino [Graduate School Mentorship Initiative](https://www.cientificolatino.com/gsmi). Research Mentor to one chemical engineering undergraduate student research volunteer, two mechanical engineering undergraduate students through the UMN ME3 REU Program, and one mechanical engineering undergraduate student through the UMN MRSEC REU Program. Career mentor to one high school senior through the virtual Professional Advancement in Career Education (PACE) Program. Tutor to two high school students and one middle school student through [CovEducation](https://www.coved.org/).  
-
-
 **Society of Women Engineers** <br/>
+*Swarthmore College Section*<br/>
+Co-Faculty Advisor | September 2025 to Present
 *Unviersity of Minnesota Section*<br/>
 GradSWE Committee Chair | March 2021 to July 2022
  * Led the revitalization of the UMN GradSWE committee by hosting monthly events catered to graduate students
  * Increased membership by 30% in one year
 
 *Societal*<br/>
-SWE Awards Coordinator for the Rising Star Award | FY23 - FY24
-
-SWE Awards Judge | 2021
- * 2022 Individual Awards
- * 2022 WE Local Awards
- * WE21 SWENext Awards
+SWE Awards Coordinator for the Rising Star Award | FY23 - Present
+SWE Awards Judge | Various Cycles
 
 Asian Connections Affinity Group (ACAG) Community Lead | February 2020 to Present
  * Build online community for ACAG to welcome new members, spark discussion, and provide professional development resources
@@ -72,6 +71,8 @@ Minority Affairs Committee Communications Team Member | May 2020 to July 2021
  * Compiled and created quarterly newsletter ([Fall 2020 Newsletter](https://www.aiche.org/sites/default/files/community/163461/aiche-community-site-newsletter/1434866/fall2020macnewsletter.pdf))
 
 **Society of Asian Scientists and Engineers**<br/>
+*Swarthmore College Chapter*<br/>
+Co-Faculty Advisor | May 2026 to Present
 *Societal*<br/>
 PR Committee Researcher | June 2016 to June 2018
  * Conducted market research to spread information about upcoming conferences and events
@@ -93,7 +94,9 @@ Chair of Joint One-Time Undergraduate Faculty Evaluation Committee | September 2
 
 
 **Panels Served** <br/>
-
+*Swarthmore* <br/>
+ * SASE Bánh Mì & Profs Panel (04/09/26)
+ * SWE x oSTEM Queer Experiences in Research Panel (02/24/26)
 *UMN* <br/>
  * ACM-W Women in Tech Symposium Grad Student Panel (04/22/22)
  * Moderator for CEMS Prospective Student Weekend Grad Life Panel (03/19/2022)
