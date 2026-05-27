@@ -10,11 +10,11 @@ Check out some pictures of my [research and manufacturing](https://www.canva.com
 
 ## [Teaching Experience](https://kristine-loh.github.io/teaching/)
 **ENGR 082 Fundamentals of Materials Engineering** <br/>
-Lecture and Lab Instructor: January 2026 to May 2026
+Lecture and Lab Instructor: January 2026 to May 2026<br/>
 **ENGR 006 Introduction to Mechanics I** <br/>
-Lab Instructor: January 2026 to May 2026
+Lab Instructor: January 2026 to May 2026<br/>
 **ENGR 041 ThermoFluid Mechanics** <br/>
-Lecture Instructor: September 2025 to December 2026
+Lecture Instructor: September 2025 to December 2026<br/>
 **SCI 123 The Science of Food and Cooking - Augsburg University** <br/>
 Adjunct Faculty Instructor: September 2024 to May 2025 <br/>
 **MATS 4400 Senior Design Project - University of Minnesota** <br/>
