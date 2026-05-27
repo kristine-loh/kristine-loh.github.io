@@ -28,7 +28,7 @@ author_profile: true
 3. **K.Q. Loh**, M. Dasgupta, “The Forces of Stage Design: An Interdisciplinary Approach to Teaching Normal Force, Frictional Force, and Design Ethics for non-STEM Majors” _Proceedings of the ASEE Midwest Section Conference_, Lincoln, NE (2023). DOI: [10.18260/1-2-660.1137-46369](https://peer.asee.org/46369)
 
 ## Presentations
-_<u> Denotes undergraduate research mentee </u>_
+_<u> *Denotes undergraduate research mentee </u>_
 
 1. **K.Q. Loh**, N.J. Eylands, V.E. Ferry, U.R. Kortshagen, (July 2025). Enhancing Lettuce Yields using Quantum Dot Films: A Computational Study. Oral Presentation. _2025 AgriVoltaics World Conference_. Freiburg, Germany. 
 2. **K.Q. Loh**, N.J. Eylands, U.R. Kortshagen, V.E. Ferry, (May 2025). Quantum Dot Luminescent Solar Concentrators in Agrivoltaic Systems. Oral and Poster Presentations. _Industrial Partnership for Research in Interfacial & Materials Engineering_. Minneapolis, MN.
