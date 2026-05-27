@@ -5,6 +5,19 @@ author_profile: true
 ---
 
 ## Teaching Experience
+**ENGR 082: Fundamentals of Materials Engineering | Lecture and Lab Instructor | Swarthmore College** <br/>
+* Created new lectures and labs for a new survey course on materials engineering
+* Collaborated with Swarthmore's Physics Department and the Engineering Machinist for new labs 
+
+**ENGR 006 Introduction to Mechanics I | Lab Instructor | Swarthmore College** <br/>
+* Updated labs to further align with lecture content and focus on design thinking
+* Provided detailed feedback in lab reports and memos to over 100 students
+
+**ENGR 041 Thermo-Fluid Mechanics | Lecture Instructor | Swarthmore College** <br/>
+* Re-designed course to better align labs with lectures
+* Introduced new labs on the ideal gas law and heat engines
+* Added lectures to teach real fluid equations of state and related properties
+
 **SCI 123 The Science of Food and Cooking | Adjunct Faculty in Physics | Augsburg University** <br/>
 * Recruited as Instructor of Record for an interdisciplinary, joint lab/lecture class for primarily non-STEM majors
 * Update weekly lectures and associated cooking labs, course page on Moodle, and summative assessments to suit a shorter night class 
