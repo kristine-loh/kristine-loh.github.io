@@ -28,7 +28,7 @@ Teaching Assistant: January 2021 to May 2021<br/>
 
 ## [Academic Research Experience](https://kristine-loh.github.io/research/)
 **Ferry and Kortshagen Groups - University of Minnesota**<br/>
-Graduate Research Fellow: January 2021 to Present<br/>
+Graduate Research Fellow: January 2021 to June 2026<br/>
 Advisors: Drs. Vivian Ferry and Uwe Kortshagen 
 
 **Nanomaterials for Energy Applications and Technology (NEAT) Lab - Drexel University**<br/>
