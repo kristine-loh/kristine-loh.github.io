@@ -18,6 +18,7 @@ The Society of Women Engineers (SWE) offers more than [$1 million](https://swe.o
 
 ### Blogs/websites I follow
 * Alex Lang's [website](https://www.alexhunterlang.com/nsf-fellowship) - gives great fellowship application advice
+* Lily Gebhart's [website](https://lily-gebhart.github.io/posts/2026/06/2026-06-23-nsfgrfp-doecsgf/) - also gives great fellowship application advice and has posts on life as a researcher
 * Prof. Chandra Precod-Weinstein's [_Medium_ articles](https://medium.com/@chanda), starting with [this article](https://medium.com/@chanda/traumatized-mentoring-stem-48f9ca9c966) on Traumatized Mentoring & STEM 
 * Life, STEM and the Pursuit of Balance: Josa Hanzlik's [blog](https://josahanzlik.wordpress.com/2020/07/04/has-online-interactions-killed-our-empathy/). 
 * [SHE engineered](https://sheengineered.com/blog/) - gives great advice for women pursuing PhDs in engineering.
