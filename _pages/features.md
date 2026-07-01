@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 ### Awards and Features
+* [SWE Celebrates LGBTQ+ STEM Professionals](https://alltogether.swe.org/2026/06/swe-celebrates-lgbtq-stem-professionals-this-pride-month/)
 * [XRD](https://www.swarthmore.edu/news-events/innovation-upgraded-x-ray-tool-to-enhance-research-experience-physics-chemistry-and) in ENGR 082 at Swarthmore
 * 500 Queer Scientists [Profile](https://500queerscientists.com/kristine-loh/)
 * President's Student Leadership and Service Award [2024 Recipients](https://docs.google.com/document/d/1KfikoeNHYcZUYjCgZZquTE1V2jQwm939vzvnEEa9fpg/edit)
