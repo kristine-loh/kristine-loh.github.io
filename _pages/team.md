@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Lab Director
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot">
 
 **Kristine Loh (she/her)** <br>
@@ -64,8 +65,8 @@ Hobbies:
 <div style="clear: both;"></div>
 
 ## Previous Research Students at Swarthmore
-Mia Daniel-Morales '29
-Isaiah Jay Moreno '28
-Osmar Jimenez Ventura '28
-Mackenzie Roberts '29
+Mia Daniel-Morales '29 <br>
+Isaiah Jay Moreno '28 <br>
+Osmar Jimenez Ventura '28 <br>
+Mackenzie Roberts '29 <br>
 
