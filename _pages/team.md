@@ -22,7 +22,7 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 
 **Gigi Case '29 (she/her)** <br>
 Gigi works on compiling a literature review of agrivoltaic policies in the U.S. <br>
-B.S. in Engineering, B.A. in Peace and Conflict Studies
+B.S. in Engineering, B.A. in Peace and Conflict Studies<br>
 Hometown: <br>
 Hobbies: <br>
 
@@ -30,7 +30,7 @@ Hobbies: <br>
 
 **Ian Forehand '27 (he/him)** <br>
 Ian works on analyzing the growth of basil under luminescent solar concentrators. <br>
-B.S in Engineering
+B.S in Engineering<br>
 Hometown: <br>
 Hobbies: <br>
 
@@ -38,7 +38,7 @@ Hobbies: <br>
 
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
-B.S. in Engineering, Minor in Biology
+B.S. in Engineering, Minor in Biology<br>
 Hometown: <br>
 Hobbies: <br>
 
@@ -46,7 +46,7 @@ Hobbies: <br>
 
 **Imani Githure '29 (he/him)** <br>
 Imani works on the sustainable synthesis and processing of red-emitting carbon dots. <br>
-B.A. in Chemistry, B.A. in Physics
+B.A. in Chemistry, B.A. in Physics<br>
 Hometown: <br>
 Hobbies: <br>
 
