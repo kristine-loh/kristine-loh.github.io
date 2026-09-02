@@ -7,8 +7,6 @@ author_profile: true
 {% include base_path %}
 
 ## Professor Kristine Loh 
-<img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="100" style="margin-right: 10px;">
-
-This is a paragraph of text with the image floating on the left. The text will wrap around the image, creating a mixed layout. This can be used for personal profiles or product introductions.
-
+<img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="200" style="margin-right: 10px;">
+Kristine Loh leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). 
 <div style="clear: both;"></div>
