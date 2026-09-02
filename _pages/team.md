@@ -17,7 +17,6 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 <br>
 
 ## Current Research Students
-<div style="clear: both;"></div>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Gigi Case '29 (she/her)** <br>
