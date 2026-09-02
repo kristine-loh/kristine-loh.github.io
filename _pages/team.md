@@ -25,7 +25,7 @@ B.S. in Engineering, B.A. in Peace and Conflict Studies
 Hometown: <br>
 Hobbies:
 
-
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Ian Forehand '27 (he/him)** <br>
