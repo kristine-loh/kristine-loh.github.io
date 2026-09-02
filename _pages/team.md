@@ -14,7 +14,6 @@ Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more 
 Hometown: Miami, FL <br>
 Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dance classes <br>
 <br clear="right"/>
-<br>
 
 ## Current Research Students
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
@@ -33,6 +32,7 @@ Ian works on analyzing the growth of basil under luminescent solar concentrators
 B.S in Engineering<br>
 Hometown: <br>
 Hobbies: <br>
+<br clear="right"/>
 
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -41,6 +41,7 @@ Arina works on the sustainable synthesis and processing of carbon dots made from
 B.S. in Engineering, Minor in Biology<br>
 Hometown: <br>
 Hobbies: <br>
+<br clear="right"/>
 
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -49,6 +50,7 @@ Imani works on the sustainable synthesis and processing of red-emitting carbon d
 B.A. in Chemistry, B.A. in Physics<br>
 Hometown: <br>
 Hobbies: <br>
+<br clear="right"/>
 
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -57,6 +59,7 @@ Vanessa works on the production of carbon dot nanocomposite films. <br>
 B.S. in Engineering, B.A. in Environmental Studies <br>
 Hometown: <br>
 Hobbies:  <br>
+<br clear="right"/>
 
 ## Previous Research Students at Swarthmore
 Mia Daniel-Morales '29 <br>
