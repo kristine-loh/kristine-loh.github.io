@@ -9,7 +9,7 @@ author_profile: true
 ## Professor Kristine Loh 
 <table>
   <tr>
-    <td><img src="images/Square.PNG" width="200"></td>
+    <td><img src="./images/Square.PNG" width="200"></td>
     <td><img src="img2.jpg" width="200"></td>
   </tr>
   <tr>
