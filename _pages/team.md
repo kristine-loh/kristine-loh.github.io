@@ -24,8 +24,7 @@ Gigi works on compiling a literature review of agrivoltaic policies in the U.S. 
 B.S. in Engineering, B.A. in Peace and Conflict Studies
 Hometown: <br>
 Hobbies: <br>
-
-
+<div style="clear: both;"></div>
 
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
