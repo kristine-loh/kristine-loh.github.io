@@ -7,7 +7,6 @@ author_profile: true
 {% include base_path %}
 
 ## Lab Director
-<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot">
 
 **Kristine Loh (she/her)** <br>
@@ -18,7 +17,6 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 <br>
 
 ## Current Research Students
-<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Gigi Case '29 (she/her)** <br>
@@ -26,8 +24,8 @@ Gigi works on compiling a literature review of agrivoltaic policies in the U.S. 
 B.S. in Engineering, B.A. in Peace and Conflict Studies
 Hometown: <br>
 Hobbies:
-<div style="clear: both;"></div>
-<br>
+
+
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Ian Forehand '27 (he/him)** <br>
@@ -35,7 +33,7 @@ Ian works on analyzing the growth of basil under luminescent solar concentrators
 B.S in Engineering
 Hometown: <br>
 Hobbies:
-<div style="clear: both;"></div>
+
 <br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -44,7 +42,7 @@ Arina works on the sustainable synthesis and processing of carbon dots made from
 B.S. in Engineering, Minor in Biology
 Hometown: <br>
 Hobbies:
-<div style="clear: both;"></div>
+
 <br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -53,7 +51,7 @@ Imani works on the sustainable synthesis and processing of red-emitting carbon d
 B.A. in Chemistry, B.A. in Physics
 Hometown: <br>
 Hobbies:
-<div style="clear: both;"></div>
+
 <br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
@@ -61,8 +59,7 @@ Hobbies:
 Vanessa works on the production of carbon dot nanocomposite films. <br>
 B.S. in Engineering, B.A. in Environmental Studies
 Hometown: <br>
-Hobbies:
-<div style="clear: both;"></div>
+
 
 ## Previous Research Students at Swarthmore
 Mia Daniel-Morales '29 <br>
