@@ -7,13 +7,8 @@ author_profile: true
 {% include base_path %}
 
 ## Professor Kristine Loh 
-<table>
-  <tr>
-    <td><img src="kristine-loh.github.io/images/Square.PNG" width="200"></td>
-    <td><img src="img2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td><img src="img3.jpg" width="200"></td>
-    <td><img src="img4.jpg" width="200"></td>
-  </tr>
-</table>
+<img src="\images\Square.png" align="left" width="100" style="margin-right: 10px;">
+
+This is a paragraph of text with the image floating on the left. The text will wrap around the image, creating a mixed layout. This can be used for personal profiles or product introductions.
+
+<div style="clear: both;"></div>
