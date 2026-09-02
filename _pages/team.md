@@ -14,7 +14,7 @@ Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more 
 Hometown: Miami, FL <br>
 Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dance classes <br>
 <div style="clear: both;"></div>
-
+<br>
 
 ## Current Research Students
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
@@ -25,7 +25,7 @@ B.S. in Engineering, B.A. in Peace and Conflict Studies
 Hometown: <br>
 Hobbies:
 <div style="clear: both;"></div>
-
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Ian Forehand '27 (he/him)** <br>
@@ -34,7 +34,7 @@ B.S in Engineering
 Hometown: <br>
 Hobbies:
 <div style="clear: both;"></div>
-
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Arina Garifullina '27 (they/them)** <br>
@@ -43,7 +43,7 @@ B.S. in Engineering, Minor in Biology
 Hometown: <br>
 Hobbies:
 <div style="clear: both;"></div>
-
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Imani Githure '29 (he/him)** <br>
@@ -52,7 +52,7 @@ B.A. in Chemistry, B.A. in Physics
 Hometown: <br>
 Hobbies:
 <div style="clear: both;"></div>
-
+<br>
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot"> 
 
 **Vanessa Gonzalez-Rychener '28 (she/her)** <br>
