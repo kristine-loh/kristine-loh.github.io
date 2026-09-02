@@ -8,5 +8,5 @@ author_profile: true
 
 ## Lab Director
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="150" style="margin-right: 10px;">
-Kristine Loh leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). 
+Kristine Loh leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](/cv/). 
 <div style="clear: both;"></div>
