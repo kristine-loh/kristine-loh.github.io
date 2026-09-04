@@ -67,8 +67,8 @@ Hobbies: Watching movies, spending time outdoors, and playing overly complicated
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
 B.S. in Engineering, Minor in Biology<br>
-Hometown: <br>
-Hobbies: <br>
+Hometown: Nairobi, Kenya (Currently live in Springfield, MO)<br>
+Hobbies: Drawing, Writing, Animal Cataloguing<br>
 <br clear="right"/>
 </div>
 
@@ -106,7 +106,7 @@ Hobbies:  <br>
 <br clear="right"/>
 
 ## Previous Research Students at Swarthmore
-Mia Daniel-Morales '29 <br>
+Mia Daniel-Morales '29 and (Frances Velay Fellow)[https://www.youtube.com/watch?v=L2rUHMZlCSA&list=PLdm7YFCrPT58HhqgCR4hRSeIdvYcbSRhr&index=5] <br>
 Isaiah Jay Moreno '28 <br>
 Mackenzie Roberts '29 <br>
 
