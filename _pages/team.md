@@ -34,6 +34,7 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 <img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot" HSPACE="15" VSPACE="50"> 
 
 <br>
+
 **Gigi Case '29 (she/her)** <br>
 Gigi is compiling a literature review of agrivoltaic policies in the U.S. <br>
 B.S. in Engineering, B.A. in Peace and Conflict Studies<br>
