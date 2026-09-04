@@ -8,7 +8,7 @@ author_profile: true
 ## Group Photos
 <img src="https://kristine-loh.github.io/images/GroupSpring.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Selfie of Kristine, Ian, and Arina each smiling and holding colorful films." title="Group Photo Spring" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSummer.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Smiling selfie of Kristine, Mackenzie, Imani, Mia, and Isaiah in front of a restaurant." title="Group Photo Summer" HSPACE="15" VSPACE="50">
 
-<br>
+\vspace{12pt}
 
 ## Lab Director
 <div align="left">
