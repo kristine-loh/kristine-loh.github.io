@@ -7,8 +7,12 @@ author_profile: true
 {% include base_path %}
 ## Group Photos
 <img src="https://kristine-loh.github.io/images/GroupSpring.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Selfie of Kristine, Ian, and Arina each smiling and holding colorful films." title="Group Photo Spring" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSummer.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Smiling selfie of Kristine, Mackenzie, Imani, Mia, and Isaiah in front of a restaurant." title="Group Photo Summer" HSPACE="15" VSPACE="50">
+<br>
 <img src="https://kristine-loh.github.io/images/GroupSelfie.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Selfie of Kristine and all Loh Lab students on the greenhouse roof holding colorful films and plants." title="Group Selfie Fall" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSilly.jpg" align="left" width="45%" style="margin-right: 10px;" alt="A silly photo of Loh Lab students holding colorful films and plants in front of their faces." title="Group Photo Silly" HSPACE="15" VSPACE="50">
-<img src="https://kristine-loh.github.io/images/GroupSelfie.jpg" align="center" width="85%" style="margin-right: 10px;" alt="A more formal group photo of the Loh Lab on the greenhouse roof." title="Group Photo Fall" HSPACE="15" VSPACE="50"> 
+<br>
+<div align="center">
+<img src="https://kristine-loh.github.io/images/GroupPhoto.jpg" align="center" width="85%" style="margin-right: 10px;" alt="A more formal group photo of the Loh Lab on the greenhouse roof." title="Group Photo Fall" HSPACE="15" VSPACE="50"> 
+</div>
 <br>
 <br>
 
