@@ -28,6 +28,7 @@ Hometown: Barrington, RI <br>
 Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
 </div>
 <br clear="right"/>
+<br>
 
 <div align="left">
 <img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot" HSPACE="15" VSPACE="50">  
