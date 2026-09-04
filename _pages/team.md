@@ -106,7 +106,7 @@ Hobbies:  <br>
 <br clear="right"/>
 
 ## Previous Research Students at Swarthmore
-Mia Daniel-Morales '29 and (Frances Velay Fellow)[https://www.youtube.com/watch?v=L2rUHMZlCSA&list=PLdm7YFCrPT58HhqgCR4hRSeIdvYcbSRhr&index=5] <br>
+Mia Daniel-Morales '29 and [Frances Velay Fellow](https://www.youtube.com/watch?v=L2rUHMZlCSA&list=PLdm7YFCrPT58HhqgCR4hRSeIdvYcbSRhr&index=5) <br>
 Isaiah Jay Moreno '28 <br>
 Mackenzie Roberts '29 <br>
 
