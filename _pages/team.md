@@ -19,6 +19,7 @@ author_profile: true
   <br>
   Group photo from Fall '26.
 </div>
+
 |        |                        |
 | ------ | ---------------------- |
 | <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">  |**Kristine Loh (she/her)** <br>
