@@ -22,10 +22,7 @@ author_profile: true
 
 |        |                        |
 | ------ | ---------------------- |
-| <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">  |**Kristine Loh (she/her)** <br>
-Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). <br>
-Hometown: Miami, FL <br>
-Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dance classes <br>    |
+| <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">  |**Kristine Loh (she/her)** <br> Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). <br> Hometown: Miami, FL <br> Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dance classes <br>    |
 
 ## Lab Director
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">
