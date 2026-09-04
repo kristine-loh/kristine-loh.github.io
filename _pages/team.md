@@ -24,8 +24,9 @@ B.S. in Engineering, B.A. in Peace and Conflict Studies<br>
 Hometown: Barrington, RI <br>
 Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
 <br clear="right"/>
+<br> 
 
-<img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" height="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot"> 
+<img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot"> 
 
 **Ian Forehand '27 (he/him)** <br>
 Ian works on analyzing the growth of basil under luminescent solar concentrators. <br>
