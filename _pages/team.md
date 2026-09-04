@@ -26,8 +26,8 @@ Gigi works on compiling a literature review of agrivoltaic policies in the U.S. 
 B.S. in Engineering, B.A. in Peace and Conflict Studies<br>
 Hometown: Barrington, RI <br>
 Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
-<br clear="right"/>
 </div>
+<br clear="right"/>
 
 <div align="left">
 <img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot" HSPACE="15" VSPACE="50">  
