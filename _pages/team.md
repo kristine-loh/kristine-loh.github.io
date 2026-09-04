@@ -16,6 +16,7 @@ author_profile: true
 </div>
 <div align="center">
 <img src="https://kristine-loh.github.io/images/GroupPhoto.jpg" align="center" width="85%" style="margin-right: 10px;" alt="A more formal group photo of the Loh Lab on the greenhouse roof." title="Group Photo Fall" HSPACE="15" VSPACE="50"> 
+  <br>
   Group photo from Fall '26.
 </div>
 
