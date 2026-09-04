@@ -5,6 +5,7 @@ permalink: /features/
 author_profile: true
 
 ---
+Many of my [leadership experiences](https://kristine-loh.github.io/leadership/) contributed to the features shown here. 
 
 ### Awards and Features
 * [SWE Celebrates LGBTQ+ STEM Professionals](https://alltogether.swe.org/2026/06/swe-celebrates-lgbtq-stem-professionals-this-pride-month/)
