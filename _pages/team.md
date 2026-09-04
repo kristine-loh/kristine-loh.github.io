@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 ## Group Photos
-<img src="https://kristine-loh.github.io/images/GroupSpring.jpg" align="left" width="50%" style="margin-right: 10px;" alt="Selfie of Kristine, Ian, and Arina each smiling and holding colorful films." title="Group Photo Spring" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSummer.jpg" align="left" width="125" style="margin-right: 10px;" alt="Smiling selfie of Kristine, Mackenzie, Imani, Mia, and Isaiah in front of a restaurant." title="Group Photo Summer" HSPACE="15" VSPACE="50">
-
+<img src="https://kristine-loh.github.io/images/GroupSpring.jpg" align="left" width="50%" style="margin-right: 10px;" alt="Selfie of Kristine, Ian, and Arina each smiling and holding colorful films." title="Group Photo Spring" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSummer.jpg" align="left" width="50%" style="margin-right: 10px;" alt="Smiling selfie of Kristine, Mackenzie, Imani, Mia, and Isaiah in front of a restaurant." title="Group Photo Summer" HSPACE="15" VSPACE="50">
+<br>
 ## Lab Director
 <div align="left">
 <img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">
