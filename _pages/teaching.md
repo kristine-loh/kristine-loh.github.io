@@ -3,6 +3,7 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
+Check out some pictures of my [teaching](https://www.canva.com/design/DAFjBFLelNE/jJIut8B5GGJwOMEwNYiTIA/view?website#2) experiences.
 
 ## Teaching Experience
 **ENGR 082: Fundamentals of Materials Engineering | Lecture and Lab Instructor | Swarthmore College** <br/>
