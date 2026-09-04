@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kristine Loh"
   avatar           : "Square.PNG"
-  bio              : "Kristine Loh (she/her) is a Visiting Assistant Professor in Engineering at Swarthmore College."
+  bio              : "Kristine Loh is a Visiting Assistant Professor in Engineering at Swarthmore College."
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kristine-loh"
+  github           : #"kristine-loh"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KristineL0h"
+  twitter          : #"KristineL0h"
   vine             :
   weibo            :
   xing             :
