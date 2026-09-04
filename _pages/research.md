@@ -3,6 +3,8 @@ title: "Academic Research Experience"
 permalink: /research/
 author_profile: true
 ---
+Check out some pictures of my [research and manufacturing](https://www.canva.com/design/DAEBa0tlGdA/Zpd2dRbug81jhHJTt66KbQ/view?website#2)
+
 ## Current Research Projects
 <ul>
   <li>Crop growth under luminescent solar concentrators</li>
