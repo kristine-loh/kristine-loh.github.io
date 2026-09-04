@@ -72,11 +72,11 @@ B.S. in Engineering, B.A. in Environmental Studies <br>
 Hometown: Pittsburgh, PA<br>
 Hobbies: Decorative mending, crocheting, cooking, playing the cello, and exploring outside <br>
 <br clear="right"/>
-
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
 </div>
 
 <div align="left">
+<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
+
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
 B.S. in Engineering <br>
