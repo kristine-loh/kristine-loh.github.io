@@ -12,7 +12,6 @@ author_profile: true
 <br>
 Group photos from Spring '26 and Summer '26.
 <br>
-<br>
 </div>
 <div align = "center">
 <img src="https://kristine-loh.github.io/images/GroupSelfie.jpg" align="left" width="45%" style="margin-right: 10px;" alt="Selfie of Kristine and all Loh Lab students on the greenhouse roof holding colorful films and plants." title="Group Selfie Fall" HSPACE="15" VSPACE="50"> <img src="https://kristine-loh.github.io/images/GroupSilly.jpg" align="left" width="45%" style="margin-right: 10px;" alt="A silly photo of Loh Lab students holding colorful films and plants in front of their faces." title="Group Photo Silly" HSPACE="15" VSPACE="50">
