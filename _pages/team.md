@@ -27,12 +27,13 @@ author_profile: true
 Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). <br>
 Hometown: Miami, FL <br>
 Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dance classes <br>
-<br clear="right"/>
+<br>
 
 ## Current Research Students
 
 <img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot" HSPACE="15" VSPACE="50"> 
 
+<br>
 **Gigi Case '29 (she/her)** <br>
 Gigi is compiling a literature review of agrivoltaic policies in the U.S. <br>
 B.S. in Engineering, B.A. in Peace and Conflict Studies<br>
@@ -49,6 +50,7 @@ B.S in Engineering<br>
 Hometown: Seattle, WA <br>
 Hobbies: Watching movies, spending time outdoors, and playing overly complicated board games<br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
 
@@ -57,6 +59,7 @@ Arina works on the sustainable synthesis and processing of carbon dots made from
 B.S. in Engineering, Minor in Biology<br>
 Hometown: Nairobi, Kenya (Currently live in Springfield, MO)<br>
 Hobbies: Drawing, Writing, Animal Cataloguing<br>
+<br>
 <br>
 
 <img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
@@ -67,6 +70,7 @@ B.A. in Chemistry, B.A. in Physics<br>
 Hometown: <br>
 Hobbies: <br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Vanessa.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Vanessa Gonzalez-Rychener, smiling, wearing a white turtleneck." title="Vanessa Headshot" HSPACE="15" VSPACE="50"> 
 
@@ -76,6 +80,7 @@ B.S. in Engineering, B.A. in Environmental Studies <br>
 Hometown: Pittsburgh, PA<br>
 Hobbies: Decorative mending, crocheting, cooking, playing the cello, and exploring outside <br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
 
@@ -84,6 +89,8 @@ Osmar works on the automation of LSC power measurements. <br>
 B.S. in Engineering <br>
 Hometown: <br>
 Hobbies:  <br>
+<br>
+<br>
 <br>
 
 ## Previous Research Students at Swarthmore
