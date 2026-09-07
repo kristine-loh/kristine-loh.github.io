@@ -53,7 +53,7 @@ Hobbies: Watching movies, spending time outdoors, and playing overly complicated
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Arina.jpeg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Arina Garifullina, smiling, wearing a gray shirt." title="Arina Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Arina.jpeg" align="left" width="125" style="margin-right: 10px; margin-bottom:0px; margin-top:0px" alt="Headshot of Arina Garifullina, smiling, wearing a gray shirt." title="Arina Headshot" HSPACE="15" VSPACE="50"> 
 
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
