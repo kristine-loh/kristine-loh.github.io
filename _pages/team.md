@@ -21,7 +21,7 @@ author_profile: true
 </div>
 
 ## Lab Director
-<img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot" HSPACE="15" VSPACE="50">
+<img src="https://kristine-loh.github.io/images/Square.PNG" align="left" width="125" style="margin-right: 10px; margin-bottom:20px; margin-top:20px" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Kristine Headshot">
 
 **Kristine Loh (she/her)** <br>
 Kristine leads the Swarthmore Sustainable Nanomaterials Lab. You can learn more about her expertise in her [CV](https://kristine-loh.github.io/cv/). <br>
@@ -31,7 +31,7 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 
 ## Current Research Students
 
-<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot"> 
 
 <br>
 
@@ -43,7 +43,7 @@ Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot" HSPACE="15" VSPACE="50">  
+<img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px; margin-bottom:20px; margin-top:0px" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot">  
 
 **Ian Forehand '27 (he/him)** <br>
 Ian is analyzing the growth of basil under luminescent solar concentrators. <br>
@@ -63,7 +63,7 @@ Hobbies: Watching Formula 1, any form of affordable traveling, and listening to 
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Swarthmore College Logo" title="Swat Logo" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Swarthmore College Logo" title="Swat Logo" HSPACE="15" VSPACE="50"> 
 
 **Imani Githure '29 (he/him)** <br>
 Imani works on the sustainable synthesis and processing of red-emitting carbon dots. <br>
@@ -73,7 +73,7 @@ Hobbies: Drawing, Writing, Animal Cataloguing<br>
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Vanessa.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Vanessa Gonzalez-Rychener, smiling, wearing a white turtleneck." title="Vanessa Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Vanessa.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Headshot of Vanessa Gonzalez-Rychener, smiling, wearing a white turtleneck." title="Vanessa Headshot" HSPACE="15" VSPACE="50"> 
 
 **Vanessa Gonzalez-Rychener '28 (she/her)** <br>
 Vanessa works on the production of carbon dot nanocomposite films. <br>
@@ -83,15 +83,13 @@ Hobbies: Decorative mending, crocheting, cooking, playing the cello, and explori
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot" HSPACE="15" VSPACE="50"> 
 
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
 B.S. in Engineering <br>
 Hometown: Los Angeles, CA<br>
 Hobbies: Thrifting, Breakfast, Salsa & Bachata, Community Service <br>
-<br>
-<br>
 <br>
 
 ## Previous Research Students at Swarthmore
