@@ -46,7 +46,7 @@ Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
 <img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot" HSPACE="15" VSPACE="50">  
 
 **Ian Forehand '27 (he/him)** <br>
-Ian works on analyzing the growth of basil under luminescent solar concentrators. <br>
+Ian is analyzing the growth of basil under luminescent solar concentrators. <br>
 B.S in Engineering<br>
 Hometown: Seattle, WA <br>
 Hobbies: Watching movies, spending time outdoors, and playing overly complicated board games<br>
