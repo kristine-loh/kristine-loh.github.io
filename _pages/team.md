@@ -53,7 +53,7 @@ Hobbies: Watching movies, spending time outdoors, and playing overly complicated
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Arina.jpeg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Arina Garifullina, smiling, wearing a black shirt." title="Arina Headshot" HSPACE="15" VSPACE="50"> 
 
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
@@ -63,7 +63,7 @@ Hobbies: Watching Formula 1, any form of affordable traveling, and listening to 
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Swarthmore College Logo" title="Swat Logo" HSPACE="15" VSPACE="50"> 
 
 **Imani Githure '29 (he/him)** <br>
 Imani works on the sustainable synthesis and processing of red-emitting carbon dots. <br>
@@ -83,7 +83,7 @@ Hobbies: Decorative mending, crocheting, cooking, playing the cello, and explori
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Kristine Loh, smiling, wearing glasses and a suit." title="Loh Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot" HSPACE="15" VSPACE="50"> 
 
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
