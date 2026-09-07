@@ -42,6 +42,7 @@ Hometown: Barrington, RI <br>
 Hobbies: Playing the euphonium, sailing, and listening to lots of music <br>
 <br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Ian.JPG" align="left" width="125" style="margin-right: 10px; margin-bottom:20px; margin-top:0px" alt="Headshot of Ian Forehand, smiling, wearing a black shirt." title="Ian Headshot">  
 
@@ -50,6 +51,7 @@ Ian is analyzing the growth of basil under luminescent solar concentrators. <br>
 B.S in Engineering<br>
 Hometown: Seattle, WA <br>
 Hobbies: Watching movies, spending time outdoors, and playing overly complicated board games<br>
+<br>
 <br>
 <br>
 
@@ -62,6 +64,7 @@ Hometown: Hatboro, PA <br>
 Hobbies: Watching Formula 1, any form of affordable traveling, and listening to music<br>
 <br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Swarthmore College Logo" title="Swat Logo" HSPACE="15" VSPACE="50"> 
 
@@ -70,6 +73,7 @@ Imani works on the sustainable synthesis and processing of red-emitting carbon d
 B.A. in Chemistry, B.A. in Physics<br>
 Hometown: Nairobi, Kenya (Currently live in Springfield, MO)<br>
 Hobbies: Drawing, Writing, Animal Cataloguing<br>
+<br>
 <br>
 <br>
 
@@ -82,6 +86,7 @@ Hometown: Pittsburgh, PA<br>
 Hobbies: Decorative mending, crocheting, cooking, playing the cello, and exploring outside <br>
 <br>
 <br>
+<br>
 
 <img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot" HSPACE="15" VSPACE="50"> 
 
@@ -90,6 +95,7 @@ Osmar works on the automation of LSC power measurements. <br>
 B.S. in Engineering <br>
 Hometown: Los Angeles, CA<br>
 Hobbies: Thrifting, Breakfast, Salsa & Bachata, Community Service <br>
+<br>
 <br>
 
 ## Previous Research Students at Swarthmore
