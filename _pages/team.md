@@ -58,8 +58,8 @@ Hobbies: Watching movies, spending time outdoors, and playing overly complicated
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
 B.S. in Engineering, Minor in Biology<br>
-Hometown: Nairobi, Kenya (Currently live in Springfield, MO)<br>
-Hobbies: Drawing, Writing, Animal Cataloguing<br>
+Hometown: Hatboro, PA <br>
+Hobbies: Watching Formula 1, any form of affordable traveling, and listening to music<br>
 <br>
 <br>
 
@@ -68,8 +68,8 @@ Hobbies: Drawing, Writing, Animal Cataloguing<br>
 **Imani Githure '29 (he/him)** <br>
 Imani works on the sustainable synthesis and processing of red-emitting carbon dots. <br>
 B.A. in Chemistry, B.A. in Physics<br>
-Hometown: <br>
-Hobbies: <br>
+Hometown: Nairobi, Kenya (Currently live in Springfield, MO)<br>
+Hobbies: Drawing, Writing, Animal Cataloguing<br>
 <br>
 <br>
 
@@ -88,8 +88,8 @@ Hobbies: Decorative mending, crocheting, cooking, playing the cello, and explori
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
 B.S. in Engineering <br>
-Hometown: <br>
-Hobbies:  <br>
+Hometown: Los Angeles, CA<br>
+Hobbies: Thrifting, Breakfast, Salsa & Bachata, Community Service <br>
 <br>
 <br>
 <br>
