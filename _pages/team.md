@@ -24,7 +24,7 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 
 ## Current Research Students
 
-<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot"> 
+<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px; margin-left: 10px" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot"> 
 
 <br>
 
