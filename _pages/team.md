@@ -24,7 +24,7 @@ Hobbies: Trying new restaurants, crocheting for herself and her cats, taking dan
 
 ## Current Research Students
 
-<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px; margin-left: 10px" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot"> 
+<img src="https://kristine-loh.github.io/images/Gigi.jpeg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:30px" alt="Headshot of Gigi Case, smiling, wearing a white shirt." title="Gigi Headshot"> 
 
 <br>
 
@@ -48,7 +48,7 @@ Hobbies: Watching movies, spending time outdoors, and playing overly complicated
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Arina.jpeg" align="left" width="125" style="margin-right: 10px; margin-bottom:0px; margin-top:0px" alt="Headshot of Arina Garifullina, smiling, wearing a gray shirt." title="Arina Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Arina.jpeg" align="left" width="125" style="margin-right: 10px; margin-bottom:0px; margin-top:0px" alt="Headshot of Arina Garifullina, smiling, wearing a gray shirt." title="Arina Headshot"> 
 
 **Arina Garifullina '27 (they/them)** <br>
 Arina works on the sustainable synthesis and processing of carbon dots made from coffee grounds. <br>
@@ -59,7 +59,7 @@ Hobbies: Watching Formula 1, any form of affordable traveling, and listening to 
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Swarthmore College Logo" title="Swat Logo" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Swarthmorelogo.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Swarthmore College Logo" title="Swat Logo"> 
 
 **Imani Githure '29 (he/him)** <br>
 Imani works on the sustainable synthesis and processing of red-emitting carbon dots. <br>
@@ -70,7 +70,7 @@ Hobbies: Drawing, Writing, Animal Cataloguing<br>
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Vanessa.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Headshot of Vanessa Gonzalez-Rychener, smiling, wearing a white turtleneck." title="Vanessa Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Vanessa.jpg" align="left" width="125" style="margin-right: 10px;margin-bottom:20px; margin-top:20px" alt="Headshot of Vanessa Gonzalez-Rychener, smiling, wearing a white turtleneck." title="Vanessa Headshot"> 
 
 **Vanessa Gonzalez-Rychener '28 (she/her)** <br>
 Vanessa works on the production of carbon dot nanocomposite films. <br>
@@ -81,7 +81,7 @@ Hobbies: Decorative mending, crocheting, cooking, playing the cello, and explori
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:30px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot" HSPACE="15" VSPACE="50"> 
+<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:30px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot"> 
 
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
