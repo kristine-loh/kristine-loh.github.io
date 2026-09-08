@@ -81,7 +81,7 @@ Hobbies: Decorative mending, crocheting, cooking, playing the cello, and explori
 <br>
 <br>
 
-<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:30px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot"> 
+<img src="https://kristine-loh.github.io/images/Osmar.JPG" align="left" width="125" style="margin-right: 10px;margin-bottom:50px; margin-top:30px" alt="Headshot of Osmar Jimenez Ventura looking into the camera and wearing a black shirt." title="Osmar Headshot"> 
 
 **Osmar Jimenez Ventura '28 (he/him)** <br>
 Osmar works on the automation of LSC power measurements. <br>
