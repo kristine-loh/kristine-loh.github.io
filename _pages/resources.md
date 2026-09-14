@@ -16,9 +16,12 @@ Know a K-12 student who needs free online tutoring? Find a mentor at [https://ww
 ### Scholarships for Women in STEM
 The Society of Women Engineers (SWE) offers more than [$1 million](https://swe.org/scholarships/) in scholarships each year for women and non-binary students in ABET-accredited programs, with deadlines often in January or February. 
 
-### Blogs/websites I follow
+### Fellowships Advice
 * Alex Lang's [website](https://www.alexhunterlang.com/nsf-fellowship) - gives great fellowship application advice
 * Lily Gebhart's [website](https://lily-gebhart.github.io/posts/2026/06/2026-06-23-nsfgrfp-doecsgf/) - also gives great fellowship application advice and has posts on life as a researcher
+* Another [repository](https://grfphelp.github.io/) of NSF GRFP statements and advice 
+
+### Blogs/websites I follow
 * Prof. Chandra Prescod-Weinstein's [_Medium_ articles](https://medium.com/@chanda), starting with [this article](https://medium.com/@chanda/traumatized-mentoring-stem-48f9ca9c966) on Traumatized Mentoring & STEM 
 * Life, STEM and the Pursuit of Balance: Josa Hanzlik's [blog](https://josahanzlik.wordpress.com/). 
 * GradSWE [blog](http://gradswe.swe.org/gradswe-blog)
