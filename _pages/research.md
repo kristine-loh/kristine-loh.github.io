@@ -8,8 +8,9 @@ Check out some pictures of my [research and manufacturing](https://www.canva.com
 ## Current Research Projects
 <ul>
   <li>Crop growth under luminescent solar concentrators</li>
-  <li>Sustainable synthesis of nanomaterials for sustainable agriculture</li>
+  <li>Synthesis of nanomaterials from biomass for sustainable agriculture</li>
   <li>Synthesis and processing of carbon dots for luminescent solar concentrators</li>
+  <li>Literature review of agrivoltaics policy and farmer perception of agrivoltaic LSCs</li>
 </ul> 
 
 ## Instrumentation and Links to Research Facilities
